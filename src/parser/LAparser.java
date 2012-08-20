@@ -7,6 +7,6 @@ package parser;
 
 
 
-public class LA {
+public class LAparser {
 
 }

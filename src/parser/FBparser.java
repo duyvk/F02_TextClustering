@@ -1,7 +1,7 @@
 package parser;
 
 
-public class FB {
+public class FBparser {
 
 }
 
