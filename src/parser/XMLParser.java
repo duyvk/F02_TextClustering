@@ -54,9 +54,11 @@ public class XMLParser {
 					Item tempItemObject = new Item();
 					Element tmpItemEle= (Element) itemList.item(i);
 					
+				// get element by name	
 					NodeList deal = tmpItemEle.getElementsByTagName("deal");
 					NodeList merchant = tmpItemEle.getElementsByTagName("merchant");
-					
+/**important***/
+				// get list of child nodes
 					addAttribute(deal.item(0).getChildNodes(), tempItemObject.deal);
 					addAttribute(merchant.item(0).getChildNodes(), tempItemObject.merchant);
 					
@@ -92,11 +94,11 @@ public class XMLParser {
 			//System.out.println(temp.getNodeName());
 			key = temp.getNodeName();
 			if(temp.getChildNodes().getLength()==0)
-				//System.out.println("N/A");
 				value = "N/A";
 			else
+/**important***/
 				//System.out.println(temp.getChildNodes().item(0).getNodeValue());
-				value = temp.getChildNodes().item(0).getNodeValue();
+				value = parseValue(temp);//OK: temp.getChildNodes().item(0).getNodeValue();
 			//System.out.println("------------");
 			list.put(key,value);
 		}
