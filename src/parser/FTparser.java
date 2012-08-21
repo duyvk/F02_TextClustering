@@ -30,6 +30,8 @@ public class FTparser extends DocParser{
 				db = dbf.newDocumentBuilder();
 			
 			File file  = new File (fileName);
+			
+			
 			if(file.exists()){
 				Document doc = db.parse(file);
 				Element docEle = doc.getDocumentElement();
@@ -37,7 +39,6 @@ public class FTparser extends DocParser{
 				//Print root element of the document
 				//System.out.println("Root element of the document: "
 					//	+ docEle.getNodeName());
-				
 				
 				NodeList docIDList = docEle.getElementsByTagName("DOCNO");
 				if(docIDList.getLength()!=0){
