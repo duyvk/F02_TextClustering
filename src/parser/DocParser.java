@@ -1,5 +1,7 @@
 package parser;
 
+import items.DocItems;
+
 public abstract class DocParser {
 	String fileName;
 	
@@ -9,5 +11,14 @@ public abstract class DocParser {
 	public DocParser(String f){
 		fileName = f;
 	}
-	abstract public String getText();
+	
+	public void setDoc (String f){
+		fileName = f;
+	}
+	
+	public String getDoc (){
+		return fileName;
+	}
+	
+	abstract public DocItems getDocItem();
 }

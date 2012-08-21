@@ -1,0 +1,5783 @@
+<DOC>
+<DOCNO> FR940114-2-00049 </DOCNO>
+<PARENT> FR940114-2-00024 </PARENT>
+<TEXT>
+ 
+ 
+<TABLE>
+ 
+1Docket No.1
+1Transporter/seller
+1Recipient
+1Date filed
+1Part 284 subpart
+1Est. max. daily quantity2
+1Aff. Y/A/N3
+1Rate sch.
+1Date commenced
+1Projected termination date
+ST94-1
+Arkla Energy Resources Co
+Marathon Oil Co
+10-01-93
+G-S
+15,000
+N
+I
+09-17-93
+Indef.
+ST94-2
+Arkla Energy Resources Co
+Minnesota Mining & Manufacturing
+10-01-93
+G-S
+750
+N
+I
+09-25-93
+Indef.
+ST94-3
+Arkla Energy Resources Co
+Phoenix Gas Marketing Co
+10-01-93
+G-S
+25,000
+N
+I
+09-03-93
+Indef.
+ST94-4
+Trunkline Gas Co
+Exxon Corp
+10-01-93
+G-S
+2,535,750
+N
+I
+09-01-93
+Indef.
+ST94-5
+Trunkline Gas Co
+Alpha Corp
+10-01-93
+G-S
+207
+N
+F
+09-01-93
+Indef.
+ST94-6
+Trunkline Gas Co
+City of Newbern
+10-01-93
+G-S
+2,484
+N
+I
+09-01-93
+Indef.
+ST94-7
+Williston Basin Inter. P/L Co
+South Dakota State Cement Plant
+10-01-93
+G-S
+438
+A
+F
+09-01-93
+08-31-94
+ST94-8
+Williston Basin Inter. P/L Co
+Western Gas Resources, Inc
+10-01-93
+G-S
+265,135
+A
+I
+09-01-93
+08-31-95
+ST94-9
+Transcontinental Gas P/L Corp
+Sonat Marketing Co
+10-01-93
+G-S
+100,000
+N
+I
+09-22-93
+Indef.
+ST94-13
+Panhandle Eastern Pipe Line Co
+Union Pacific Fuels, Inc
+10-01-93
+G-S
+25,000
+N
+I
+09-01-93
+08-31-08
+ST94-14
+Panhandle Eastern Pipe Line Co
+Mesa Operating, L.P
+10-01-93
+G-S
+70,000
+N
+I
+09-01-93
+08-31-98
+ST94-15
+Panhandle Eastern Pipe Line Co
+Dominion Gas Ventures, Inc
+10-01-93
+G-S
+1,100
+N
+I
+09-01-93
+08-31-98
+ST94-16
+Panhandle Eastern Pipe Line Co
+Archer Daniels Midland Co
+10-01-93
+G-S
+1,650
+N
+F
+09-01-93
+09-30-93
+ST94-17
+Panhandle Eastern Pipe Line Co
+Anadarko Trading Co
+10-01-93
+G-S
+10,000
+N
+F
+09-01-93
+09-30-03
+ST94-18
+Panhandle Eastern Pipe Line Co
+Semco Energy Services, Inc
+10-01-93
+G-S
+1,850
+N
+F
+09-01-93
+09-30-93
+ST94-19
+Panhandle Eastern Pipe Line Co
+Coastal Gas Marketing Co
+10-01-93
+G-S
+4,000
+N
+F
+09-01-93
+09-30-93
+ST94-20
+Panhandle Eastern Pipe Line Co
+Mobil Natural Gas, Inc
+10-01-93
+G-S
+1,800
+N
+F
+09-14-93
+09-30-93
+ST94-21
+Panhandle Eastern Pipe Line Co
+Nat. Refractories & Minerals Corp
+10-01-93
+G-S
+9,000
+N
+I
+09-01-93
+03-31-98
+ST94-22
+Panhandle Eastern Pipe Line Co 
+Battle Creek Gas Co
+10-01-93
+G-S
+6,000
+N
+F
+09-01-93
+09-30-93
+ST94-23
+Panhandle Eastern Pipe Line Co
+Panhandle Trading Co
+10-01-93
+G-S
+32,200
+A
+F
+09-02-93
+09-30-93
+ST94-24
+Panhandle Eastern Pipe Line Co
+Hadson Gas Systems, Inc
+10-01-93
+G-S
+1,193
+N
+F
+09-01-93
+09-30-93
+ST94-25
+Panhandle Eastern Pipe Line Co
+NGC Transportation, Inc
+10-01-93
+G-S
+15,000
+N
+F
+09-02-93
+09-30-93
+ST94-26
+Seagull Shoreline System
+Texas Eastern Transmission Corp
+10-01-93
+C
+5,000
+N
+I
+09-05-93
+Indef.
+ST94-27
+Delhi Gas Pipeline Corp
+Tennessee Gas Pipeline Co., et al
+10-01-93
+C
+2,500
+N
+I
+09-01-93
+Indef.
+ST94-28
+Delhi Gas Pipeline Corp
+ANR Pipeline Co., et al
+10-01-93
+C
+50,000
+N
+I
+09-09-93
+Indef.
+ST94-29
+Houston Pipe Line Co
+Texas Eastern Transmission Corp
+10-01-93
+C
+25,000
+N
+I
+08-01-93
+Indef.
+ST94-30
+Houston Pipe Line Co
+Northern Natural Gas Co
+10-01-93
+C
+50,000
+N
+I
+08-26-93
+Indef.
+ST94-31
+Oasis Pipe Line Co
+Natural Gas Pipeline Co. of America
+10-01-93
+C
+20,000
+N
+I
+08-01-93
+Indef.
+ST94-32
+Oasis Pipe Line Co
+Natural Gas Pipeline Co. of America
+10-01-93
+C
+100,000
+N
+I
+08-17-93
+Indef.
+ST94-33
+Valero Transmission, L.P
+Koch Gateway Pipeline Co
+10-04-93
+C
+1,000
+N
+I
+09-16-93
+Indef.
+ST94-34
+Valero Transmission, L.P
+El Paso Natural Gas Co
+10-04-93
+C
+2,000
+N
+I
+09-16-93
+Indef.
+ST94-35
+Gulf Energy Pipeline Co
+Tennessee Gas Pipeline Co
+10-04-93
+C
+30,000
+N
+I
+09-01-93
+Indef.
+ST94-36
+Gulf Energy Pipeline Co
+Trunkline Gas Co
+10-05-93
+C
+10,000
+N
+I
+10-01-93
+Indef.
+ST94-37
+Gulf Energy Pipeline Co
+Natural Gas Pipeline Co. of America
+10-05-93
+C
+30,000
+N
+I
+09-01-93
+Indef.
+ST94-38
+Seagas Pipeline Co
+Phillips Gas Pipeline Co
+10-05-93
+C
+75,000
+N
+I
+03-01-93
+Indef.
+ST94-39
+Bridgeline Gas Distribution Co
+Columbia Gulf Transmission Co
+10-05-93
+C
+4,673
+N
+I
+09-08-93
+Indef.
+ST94-40
+Phillips Gas Pipeline Co
+Seagas Pipeline Co
+10-05-93
+B
+50,000
+A
+I
+08-01-93
+Indef.
+ST94-41
+Pacific Gas Transmission Co
+Coastal Gas Marketing Co
+10-06-93
+G-S
+100,000
+N
+I
+09-10-93
+Indef.
+ST94-42
+Supenn Pipeline
+United Gas Pipe Line Co
+10-06-93
+C
+35,000
+N
+I
+09-30-93
+Indef.
+ST94-43
+Colorado Interstate Gas Co
+City of Trinidad
+10-06-93
+G-S
+5,940
+N
+I
+10-01-93
+09-30-96
+ST94-44
+Colorado Interstate Gas Co
+City of Keyes 
+10-06-93
+G-S
+366
+N
+I
+10-01-93
+09-30-96
+ST94-45
+Colorado Interstate Gas Co
+City of Walsenburg
+10-06-93
+G-S
+1,980
+N
+I
+10-01-93
+09-30-96
+ST94-46
+Colorado Interstate Gas Co
+City of Fort Morgan
+10-06-93
+G-S
+6,864
+N
+I
+10-01-93
+09-30-96
+ST94-47
+Colorado Interstate Gas Co
+Eastern Colorado Utility Co
+10-06-93
+G-S
+3,725
+N
+I
+10-01-93
+09-30-96
+ST94-48
+Natural Gas P/L Co. of America
+Midwest Gas
+10-06-93
+B
+10,291
+N
+F
+10-01-93
+09-30-01
+ST94-49
+Northern Natural Gas Co
+Associated Natural Gas, Inc
+10-07-93
+G-S
+10,000
+N
+F/I
+09-10-93
+Indef.
+ST94-50
+Colorado Interstate Gas Co
+Public Service Co. of Colorado
+10-07-93
+G-S
+481,790
+N
+I
+10-01-93
+09-30-96
+ST94-51
+Colorado Interstate Gas Co
+City of Colorado Springs
+10-07-93
+G-S
+51,220
+N
+I
+10-01-93
+09-30-96
+ST94-52
+Colorado Interstate Gas Co
+Ration Gas Transmission Co., Inc
+10-07-93
+G-S
+9,900
+N
+I
+10-01-93
+09-30-96
+ST94-53
+Colorado Interstate Gas Co
+Coastal Gas Marketing Co
+10-07-93
+G-S
+510
+A
+F
+10-01-93
+12-31-93
+ST94-54
+Arkla Energy Resources Co
+Pennzoil Gas Marketing Co
+10-07-93
+G-S
+5,000
+N
+I
+10-01-93
+Indef.
+ST94-55
+Arkla Energy Resources Co
+Transok Gas Co
+10-07-93
+G-S
+6,224
+N
+F
+10-01-93
+Indef.
+ST94-56
+Arkla Energy Resources Co
+Marathon Oil Co
+10-07-93
+G-S
+15,000
+N
+I
+10-01-93
+Indef.
+ST94-57
+Arkla Energy Resources Co
+Heritage Energy Co
+10-07-93
+G-S
+100,000
+N
+I
+10-01-93
+Indef.
+ST94-58
+Arkla Energy Resources Co
+BCF Gas Ltd
+10-07-93
+G-S
+10,000
+N
+I
+10-01-93
+Indef.
+ST94-59
+Arkla Energy Resources Co
+Pet Inc
+10-07-93
+G-S
+400
+N
+I
+10-01-93
+Indef.
+ST94-60
+Natural Gas P/L Co. of America
+Broad Street Oil & Gas Co
+10-07-93
+G-S
+5,000
+N
+F
+10-01-93
+10-31-93
+ST94-61
+High Island Offshore System
+Coastal Gas Marketing Co
+10-08-93
+K-S
+11,298
+A
+F
+09-01-93
+Indef.
+ST94-62
+High Island Offshore System
+Amax Gas Marketing, Inc
+10-08-93
+K-S
+5,000
+N
+I
+09-01-93
+Indef.
+ST94-63
+High Island Offshore System
+Transco Liquids Co
+10-08-93
+K-S
+150,000
+N
+I
+08-01-93
+Indef.
+ST94-64
+Algonquin Gas Transmission Co
+New Jersey Natural Gas Co
+10-08-93
+B
+6,106
+N
+F
+09-23-93
+Indef.
+ST94-65
+Algonquin Gas Trasnmission Co
+Commonwealth Gas Co
+10-08-93
+B
+6,233
+N
+F
+09-30-93
+Indef.
+ST94-66
+Trunkline Gas Co
+Illinois Power Co
+10-08-93
+G-S
+3,726
+N
+I
+09-01-93
+Indef.
+ST94-67
+Trunkline Gas Co
+Northern Indiana Public Service Co
+10-08-93
+G-S
+5,175
+N
+F
+09-01-93
+Indef.
+ST94-68
+Trunkline Gas Co
+City of Flora
+10-08-93
+G-S
+6,210
+N
+I
+09-01-93
+Indef.
+ST94-69
+Trunkline Gas Co
+City of Belle Rive
+10-08-93
+G-S
+248
+N
+I
+09-01-93
+Indef.
+ST94-70
+Trunkline Gas Co
+City of Bluford
+10-08-93
+G-S
+702
+N
+I
+09-01-93
+Indef.
+ST94-71
+Trunkline Gas Co
+City of Splendora
+10-08-93
+G-S
+518
+N
+I
+09-01-93
+Indef.
+ST94-72
+Trunkline Gas Co
+City of Byhalia
+10-08-93
+G-S
+4,140
+N
+I
+09-01-93
+Indef.
+ST94-73
+Trunkline Gas Co
+City of Karnak
+10-08-93
+G-S
+414
+N
+I
+09-01-93
+Indef.
+ST94-74
+Trunkline Gas Co
+Consumers Power Co
+10-08-93
+G-S
+336,375
+N
+F
+09-01-93
+Indef.
+ST94-75
+Trunkline Gas Co
+Central Illinois Public Service Co
+10-08-93
+G-S
+7,763
+N
+I
+09-01-93
+Indef.
+ST94-76
+Williams Natural Gas Co
+Atchison Casting Corp
+10-08-93
+B
+3,500
+N
+I
+09-15-93
+10-01-93
+ST94-77
+Arkla Energy Resources Co
+Western Resources, Inc
+10-08-93
+G-S
+1,735
+N
+F
+10-01-93
+Indef.
+ST94-78
+Colorado Interstate Gas Co
+Kn Interstate Gas Transmission Co
+10-08-93
+G-S
+7,496
+N
+I
+10-01-93
+09-30-96
+ST94-79
+Colorado Interstate Gas Co
+Citizens Utilities Co
+10-08-93
+G-S
+5,563
+N
+I
+10-01-93
+09-30-96
+ST94-80
+Colorado Interstate Gas Co
+Greeley Gas Co
+10-08-93
+G-S
+16,005
+N
+I
+10-01-93
+09-30-96
+ST94-81
+Colorado Interstate Gas Co
+Cheyenne Light, Fuel, & Power Co
+10-08-93
+G-S
+13,486
+N
+I
+10-01-93
+09-30-96
+ST94-82
+Colorado Interstate Gas Co
+Kn Energy, Inc
+10-08-93
+G-S
+3,900
+N
+I
+10-01-93
+09-30-96
+ST94-83
+Colorado Interstate Gas Co
+Kn Energy, Inc
+10-08-93
+G-S
+11,396
+N
+I
+10-01-93
+09-30-96
+ST94-84
+Colorado Interstate Gas Co
+Peoples Natural Gas Co
+10-08-93
+G-S
+19,732
+N
+I
+10-01-93
+09-30-96
+ST94-85
+Colorado Interstate Gas Co
+Northern Gas of Wyoming
+10-08-93
+G-S
+156
+N
+I
+10-01-93
+09-30-96
+ST94-86
+Colorado Interstate Gas Co
+Peoples Natural Gas Co
+10-12-93
+G-S
+7,000
+N
+F
+10-01-93
+09-30-96
+ST94-87
+Colorado Interstate Gas Co
+City of Colorado Springs
+10-12-93
+G-S
+40,747
+N
+F
+10-01-93
+09-30-96
+ST94-88
+Colorado Interstate Gas Co
+Public Service Co. of Colorado
+10-12-93
+G-S
+543,066
+N
+F
+10-01-93
+09-30-96
+ST94-89
+Colorado Interstate Gas Co
+Fuel Resource Development Co
+10-12-93
+G-S
+2,460
+N
+F
+10-01-93
+12-31-08
+ST94-90
+Colorado Interstate Gas Co
+Western Gas Resources, Inc
+10-12-93
+G-S
+1,590
+N
+F
+10-01-93
+08-31-94
+ST94-91
+Colorado Interstate Gas Co
+Greeley Gas Co
+10-12-93
+G-S
+1,408
+N
+F
+10-01-93
+09-30-96
+ST94-92
+Colorado Interstate Gas Co
+Western Natural Gas & Transmission
+10-12-93
+G-S
+8,190
+N
+F
+10-01-93
+07-31-96
+ST94-93
+Colorado Interstate Gas Co
+Cheyenne Light, Fuel & Power Co
+10-12-93
+G-S
+14,793
+N
+F
+10-01-93
+09-30-96
+ST94-94
+Colorado Interstate Gas Co
+City of Colorado Springs
+10-12-93
+G-S
+29,550
+N
+F
+10-01-93
+09-30-96
+ST94-95
+Colorado Interstate Gas Co
+Citizens Utilities Co
+10-12-93
+G-S
+10,403
+N
+F
+10-01-93
+09-30-96
+ST94-96
+Trunkline Gas Co
+Gastrak Corp
+10-12-93
+G-S
+100,000
+N
+I
+07-24-93
+Indef.
+ST94-97
+Trunkline Gas Co
+Polaris Pipeline Corp
+10-12-93
+G-S
+20,000
+N
+I
+07-24-93
+Indef.
+ST94-98
+Trunkline Gas Co
+City of Arlington
+10-12-93
+G-S
+4,140
+N
+I
+09-01-93
+Indef.
+ST94-99
+Trunkline Gas Co
+City of Greenup
+10-12-93
+G-S
+4,140
+N
+I
+09-01-93
+Indef.
+ST94-100
+Trunkline Gas Co
+City of Clinton
+10-12-93
+G-S
+4,140
+N
+I
+09-01-93
+Indef.
+ST94-101
+Trunkline Gas Co
+City of Rensselaer
+10-12-93
+G-S
+6,831
+N
+I
+09-01-93
+Indef.
+ST94-102
+Trunkline Gas Co
+City of Wayne City
+10-12-93
+G-S
+2,122
+N
+I
+09-01-93
+Indef.
+ST94-103
+Trunkline Gas Co
+City of La Center
+10-12-93
+G-S
+4,140
+N
+I
+09-01-93
+Indef.
+ST94-104
+Trunkline Gas Co
+City of Toledo
+10-12-93
+G-S
+983
+N
+I
+09-01-93
+Indef.
+ST94-105
+Trunkline Gas Co
+City Gas Co
+10-12-93
+G-S
+1,242
+N
+I
+09-01-93
+Indef.
+ST94-106
+Trunkline Gas Co
+City of Troy
+10-12-93
+G-S
+1,035
+N
+I
+09-01-93
+Indef.
+ST94-107
+Trunkline Gas Co
+City of Mason
+10-12-93
+G-S
+175
+N
+I
+09-01-93
+Indef.
+ST94-108
+Trunkline Gas Co
+City of Wickliffe
+10-12-93
+G-S
+4,140
+N
+I
+09-01-93
+Indef.
+ST94-109
+Trunkline Gas Co
+City of Trimble
+10-12-93
+G-S
+414
+N
+I
+09-01-93
+Indef.
+ST94-110
+Trunkline Gas Co
+City of Milford
+10-12-93
+G-S
+2,070
+N
+I
+09-01-93
+Indef.
+ST94-111
+Trunkline Gas Co
+City of Bardwell
+10-12-93
+G-S
+4,140
+N
+I
+09-01-93
+Indef.
+ST94-112
+Northwest Pipeline Corp
+Coastal Gas Marketing Co
+10-12-93
+G-S
+250,000
+N
+I
+08-02-93
+Indef.
+ST94-113
+Northwest Pipeline Corp
+City of Ellensburg
+10-12-93
+G-S
+1,500
+N
+F
+09-09-93
+Indef.
+ST94-114
+Arkla Energy Resources Co.
+Tyson Foods, Inc
+10-12-93
+G-S
+225
+N
+F
+10-01-93
+Indef.
+ST94-115
+Arkla Energy Resources Co.
+Tyson Foods, Inc
+10-12-93
+G-S
+502
+N
+F
+10-01-93
+Indef.
+ST94-116
+Arkla Energy Resources Co.
+Tyson Foods, Inc
+10-12-93
+G-S
+87
+N
+F
+10-01-93
+Indef.
+ST94-117
+Arkla Energy Resources Co.
+Tyson Foods, Inc
+10-12-93
+G-S
+159
+N
+F
+10-01-93
+Indef.
+ST94-118
+Arkla Energy Resources Co.
+Alumax Magnolia Division
+10-12-93
+G-S
+1,250
+N
+F
+10-01-93
+Indef.
+ST94-119
+Arkla Energy Resources Co.
+Tyson Foods, Inc
+10-12-93
+G-S
+191
+N
+F
+10-01-93
+Indef.
+ST94-120
+Arkla Energy Resources Co.
+Tyson Foods, Inc
+10-12-93
+G-S
+915
+N
+F
+10-01-93
+Indef.
+ST94-121
+Arkla Energy Resources Co.
+Pilgrim's Pride
+10-12-93
+G-S
+165
+N
+F
+10-01-93
+Indef.
+ST94-122
+Arkla Energy Resources Co.
+Helena Cotton Oil Co., Inc
+10-12-93
+G-S
+293
+N
+F
+10-01-93
+Indef.
+ST94-123
+Arkla Energy Resources Co.
+Wheatland Tube Co
+10-12-93
+G-S
+195
+N
+F
+10-01-93
+Indef.
+ST94-124
+Arkla Energy Resources Co.
+Pace Industries, Inc
+10-12-93
+G-S
+325
+N
+F
+10-01-93
+Indef.
+ST94-125
+Arkla Energy Resources Co.
+Tyson Foods, Inc
+10-12-93
+G-S
+650
+N
+F
+10-01-93
+Indef.
+ST94-126
+Arkla Energy Resources Co.
+Tyson Foods, Inc
+10-12-93
+G-S
+204
+N
+F
+10-01-93
+Indef.
+ST94-127
+Arkla Energy Resources Co.
+Pilgrim's Pride
+10-12-93
+G-S
+290
+N
+F
+10-01-93
+Indef.
+ST94-128
+Arkla Energy Resources Co.
+Fordyce Picture Frams Co., Inc
+10-12-93
+G-S
+180
+N
+F
+10-01-93
+Indef.
+ST94-129
+Arkla Energy Resources Co.
+Doctor's Hospital
+10-12-93
+G-S
+144
+N
+F
+10-01-93
+Indef.
+ST94-130
+Arkla Energy Resources Co.
+Tyson Foods, Inc
+10-12-93
+G-S
+182
+N
+F
+10-01-93
+Indef.
+ST94-131
+Arkla Energy Resources Co.
+Tyson Foods, Inc
+10-12-93
+G-S
+177
+N
+F
+10-01-93
+Indef.
+ST94-132
+Columbia Gas Transmission Corp
+Snyder Armclar Gas Co
+10-12-93
+G-S
+3,000
+N
+I
+10-01-93
+Indef.
+ST94-133
+Columbia Gas Transmission Corp
+Aig Trading Corp
+10-12-93
+G-S
+200,000
+Y
+I
+09-27-93
+Indef.
+ST94-134
+Columbia Gas Transmission Corp
+Commonwealth Gas Services, Inc
+10-12-93
+G-S
+1,529
+Y
+F
+10-01-93
+Indef.
+ST94-135
+Columbia Gas Transmission Corp
+Commonwealth Gas Services, Inc
+10-12-93
+G-S
+471
+Y
+F
+10-01-93
+Indef.
+ST94-136
+Colorado Interstate Gas Co
+Western Sugar Co
+10-12-93
+G-S
+730
+N
+F
+10-01-93
+03-31-94
+ST94-137
+Colorado Interstate Gas Co
+Amoco Energy Trading Corp
+10-12-93
+G-S
+10,312
+N
+F
+10-01-93
+10-31-94
+ST94-138
+Colorado Interstate Gas Co
+Coastal Gas Marketing Co
+10-12-93
+G-S
+7,730
+A
+F
+10-01-93
+10-31-94
+ST94-139
+Colorado Interstate Gas Co
+Coastal Gas Marketing Co
+10-12-93
+G-S
+16,640
+A
+F
+10-01-93
+05-31-94
+ST94-140
+Colorado Interstate Gas Co
+Chevron U.S.A., Inc
+10-12-93
+G-S
+10,270
+N
+F
+10-01-93
+10-31-94
+ST94-141
+Colorado Interstate Gas Co
+Coastal Oil & Gas Corp
+10-12-93
+G-S
+42,000
+A
+F
+10-01-93
+12-31-02
+ST94-142
+Colorado Interstate Gas Co
+Snyder Oil Corp
+10-12-93
+G-S
+10,950
+N
+F
+10-01-93
+09-30-94
+ST94-143
+Colorado Interstate Gas Co
+Coastal Chem, Inc
+10-12-93
+G-S
+23,220
+A
+F
+10-01-93
+08-31-95
+ST94-144
+Colorado Interstate Gas Co
+Vesgas Co 
+10-12-93
+G-S
+3,200
+N
+F
+10-01-93
+06-30-95
+ST94-145
+Colorado Interstate Gas Co
+Enron Oil & Gas Co
+10-12-93
+G-S
+126,336
+N
+F
+10-01-93
+12-31-02
+ST94-146
+Channel Industries Gas Co
+Tennessee Gas Pipeline Co
+10-12-93
+C
+5,000
+Y
+I
+09-11-93
+Indef.
+ST94-147
+Valero Transmission, L.P.
+Natural Gas Pipeline Co. of America
+10-12-93
+C
+6,000
+N
+I
+09-16-93
+Indef.
+ST94-148
+Transtexas Pipeline
+Natural Gas Pipeline Co. of America
+10-12-93
+C
+6,000
+N
+I
+09-16-93
+Indef.
+ST94-149
+Valero Transmission, L.P.
+Transwestern Pipeline Co
+10-12-93
+C
+35,000
+N
+I
+09-28-93
+Indef.
+ST94-150
+Texas Gas Transmission Corp
+Willamette Industries, Inc
+10-13-93
+G-S
+10,000
+N
+I
+10-01-93
+Indef.
+ST94-151 
+Texas Gas Transmission Corp 
+Columbia Energy Services Corp 
+10-13-93 
+G-S 
+25,000 
+Y 
+I 
+10-01-93 
+Indef.
+ST94-152 
+Texas Gas Transmission Corp 
+O&R Energy, Inc 
+10-13-93 
+G-S 
+20,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-153 
+Texas Gas Transmission Corp 
+Enron Gas Marketing, Inc 
+10-13-93 
+G-S 
+20,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-154 
+Texas Gas Transmission Corp 
+Enron Gas Marketing, Inc 
+10-13-93 
+G-S 
+20,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-155 
+Colorado Interstate Gas Co 
+CNG Producing Co 
+10-13-93 
+G-S 
+4,220 
+N 
+F 
+10-01-93 
+01-31-03
+ST94-156 
+Colorado Interstate Gas Co 
+CNG Producing Co 
+10-13-93 
+G-S 
+12,600 
+N 
+F 
+10-01-93 
+12-31-03
+ST94-157 
+Colorado Interstate Gas Co 
+U.S. Air Force Academy 
+10-13-93 
+G-S 
+6,700 
+N 
+F 
+10-01-93 
+Indef.
+ST94-158 
+Colorado Interstate Gas Co 
+Associated Intrastate Pipeline Co 
+10-13-93 
+G-S 
+23,630 
+N 
+F 
+10-01-93 
+12-31-96
+ST94-159 
+Colorado Interstate Gas Co 
+Union Pacific Fuels, Inc 
+10-13-93 
+G-S 
+50,000 
+N 
+F 
+10-01-93 
+10-31-03
+ST94-160 
+Colorado Interstate Gas Co 
+Conoco, Inc 
+10-13-93 
+G-S 
+10,500 
+N 
+F 
+10-01-93 
+12-31-98
+ST94-161 
+Colorado Interstate Gas Co 
+North American Resources Co 
+10-13-93 
+G-S 
+10,130 
+N 
+F 
+10-01-93 
+11-30-06
+ST94-162 
+Colorado Interstate Gas Co 
+Peoples Natural Gas Co 
+10-13-93 
+G-S 
+5,588
+N 
+F 
+10-01-93 
+9-30-96
+ST94-163 
+Columbia Gulf Transmission Co 
+Coast Energy Group, Inc 
+10-13-93 
+G-S 
+25,000 
+N 
+I 
+09-29-93 
+Indef.
+ST94-164 
+Columbia Gulf Transmission Co 
+MG Natural Gas Corp 
+10-13-93 
+G-S 
+5,000 
+N 
+I 
+09-17-93 
+Indef.
+ST94-165 
+Columbia Gulf Transmission Co 
+Mobil Natural Gas, Inc 
+10-13-93 
+G-S 
+60,000 
+N 
+I 
+09-25-93 
+Indef.
+ST94-166 
+Columbia Gulf Transmission Co 
+North Canadian Marketing Co 
+10-13-93 
+G-S 
+150,000 
+N 
+I 
+10-02-93 
+Indef.
+ST94-167 
+Columbia Gulf Transmission Co 
+Total Minatome Corp 
+10-13-93 
+G-S 
+100,000 
+N 
+I 
+09-16-93 
+Indef.
+ST94-168 
+Transcontinental Gas P/L Corp 
+Equitable Resources Marketing Co 
+10-13-93 
+G-S 
+160,000 
+N 
+I 
+09-24-93 
+Indef.
+ST94-169 
+Transcontinental Gas P/L Corp 
+PNG Energy 
+10-13-93 
+G-S 
+200,000 
+N 
+I 
+09-16-93 
+Indef.
+ST94-170 
+Transcontinental Gas P/L Corp 
+Texas-Ohio Gas, Inc 
+10-13-93 
+G-S 
+112,000 
+N 
+I 
+09-30-93 
+Indef.
+ST94-171 
+Koch Gateway Pipeline Co 
+Vesta Energy Co 
+10-13-93 
+G-S 
+104,800 
+N 
+I 
+09-05-93 
+02-02-94
+ST94-172 
+Koch Gateway Pipeline Co 
+KCS Energy Marketing, Inc 
+10-13-93 
+G-S 
+78,600 
+N 
+I 
+09-29-93 
+01-27-94
+ST94-173 
+Koch Gateway Pipeline Co 
+Western Gas Resources, Inc 
+10-13-93 
+G-S 
+75,000 
+N 
+I 
+10-05-93 
+02-02-94
+ST94-174 
+Koch Gateway Pipeline Co 
+Murphy Oil USA, Inc 
+10-13-93 
+G-S 
+100,000 
+N 
+I 
+10-05-93 
+02-02-94
+ST94-175 
+Tennessee Gas Pipeline Co 
+Connecticut Natural Gas Corp 
+10-14-93 
+G-S 
+4,152
+N 
+F 
+10-01-93 
+Indef.
+ST94-176 
+Midwestern Gas Transmission Co 
+Mobil Natural Gas, Inc 
+10-14-93 
+G-S 
+50,000 
+N 
+I 
+09-27-93 
+Indef.
+ST94-177 
+Stingray Pipeline Co 
+Scana Hydrocarbons, Inc 
+10-14-93 
+G-S 
+5,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-178 
+Stingray Pipeline Co 
+Western Gas Resources, Inc 
+10-14-93 
+G-S 
+30,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-179 
+Natural Gas P/L Co. of America 
+NGC Transportation, Inc 
+10-14-93 
+G-S 
+40,000 
+A 
+F 
+10-01-93 
+10-31-93
+ST94-180 
+Northern Natural Gas Co 
+Enogex, Inc 
+10-14-93 
+B 
+100,000 
+N 
+F/I 
+09-01-93 
+Indef.
+ST94-181 
+Northern Natural Gas Co 
+Transok Gas Co 
+10-14-93 
+G-S 
+30,000 
+N 
+F/I 
+09-26-93 
+Indef.
+ST94-182 
+Northern Natural Gas Co 
+OXY USA, Inc 
+10-14-93 
+G-S 
+15,000 
+N 
+F/I 
+09-01-93 
+Indef.
+ST94-183 
+ONG Transmission Co 
+Ozark Pipeline Co 
+10-14-93 
+C 
+50,000 
+N 
+I 
+09-15-93 
+Indef.
+ST94-184 
+Columbia Gas Transmission Corp 
+Constitution Gas Transport Co., Inc 
+10-14-93 
+G-S 
+15,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-185 
+Columbia Gas Transmission Corp 
+U.S. Energy Development Corp 
+10-14-93 
+G-S 
+6,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-186 
+Colorado Interstate Gas Co 
+Wyoming Gas Co 
+10-14-93 
+G-S 
+400 
+N 
+F 
+10-01-93 
+1-31-95
+ST94-187 
+Colorado Interstate Gas Co 
+Mountain Fuel Supply Co 
+10-14-93 
+G-S 
+540 
+N 
+F 
+10-01-93 
+Indef.
+ST94-188 
+Colorado Interstate Gas Co 
+Helmerich & Payne Energy Services 
+10-14-93 
+G-S 
+30,000 
+N 
+F 
+10-01-93 
+3-31-94
+ST94-189 
+Colorado Interstate Gas Co 
+ANR Pipeline Co 
+10-14-93 
+G-S 
+35,820 
+Y 
+F 
+10-01-93 
+10-31-93
+ST94-190 
+Colorado Interstate Gas Co 
+Holnam, Inc 
+10-14-93 
+G-S 
+130 
+N 
+F 
+10-01-93 
+09-30-94
+ST94-191 
+Colorado Interstate Gas Co 
+Union Pacific Fuels, Inc 
+10-14-93 
+G-S 
+10,000 
+N 
+F 
+10-01-93 
+10-31-95
+ST94-192 
+Colorado Interstate Gas Co 
+Associated Intrastate Pipeline Co 
+10-14-93 
+G-S 
+10,310 
+N 
+F 
+10-01-93 
+09-30-97
+ST94-193 
+Colorado Interstate Gas Co 
+Fuel Resource Development Co 
+10-14-93 
+G-S 
+1,750 
+N 
+F 
+10-01-93 
+12-31-08
+ST94-194 
+Southern Natural Gas Co 
+Yuma Gas Corp 
+10-15-93 
+G-S 
+50,000 
+N 
+I 
+10-08-93 
+Indef.
+ST94-195 
+Southern Natural Gas Co 
+Petro Source Gas Ventures 
+10-15-93 
+G-S 
+50,000 
+N 
+I 
+10-11-93 
+Indef.
+ST94-196 
+Southern Natural Gas Co 
+Tennessee Gas Pipeline Co 
+10-15-93 
+G-S 
+10,000 
+N 
+I 
+10-08-93 
+Indef.
+ST94-197 
+Southern Natural Gas Co 
+Equitable Resources Marketing 
+10-15-93 
+G-S 
+100,000 
+N 
+I 
+10-02-93 
+Indef.
+ST94-198 
+Sea Robin Pipeline Co 
+Natural Gas Pipeline Co 
+10-15-93 
+G-S 
+10,000 
+N 
+F 
+10-01-93 
+09-11-94
+ST94-199 
+Colorado Interstate Gas Co 
+Chevron USA, Inc 
+10-15-93 
+G-S 
+10,270 
+N 
+F 
+10-01-93 
+10-31-94
+ST94-200 
+Colorado Interstate Gas Co 
+Texaco Gas Marketing, Inc
+10-15-93
+G-5
+8,500
+N
+F
+10-01-93
+10-31-93.
+ST94-201 
+Colorado Interstate Gas Co 
+Snyder Oil Corp
+10-15-93
+G-5
+21,000
+N
+F
+10-01-93
+10-31-03.
+ST94-202 
+Colorado Interstate Gas Co 
+City of Colorado Springs
+10-15-93
+G-5
+23,135
+N
+F
+10-01-93
+09-30-96.
+ST94-203
+Colorado Interstate Gas Co 
+Associated Intrastate Pipeline Co
+10-15-93
+G-5
+4,160
+N
+F
+10-01-93
+.08-31-94
+ST94-204
+Great Lakes Gas Trans., L.P
+Coastal Gas Marketing Co
+10-15-93
+G-5
+10,000
+N
+I
+10-01-93
+10-31-93.
+ST94-205
+Great Lakes Gas Trans., L.P
+Gaz Metropolitan & Co., P.P
+10-15-93
+G-5
+100,000
+N
+I
+09-16-93
+10-31-93.
+ST94-206
+Great Lakes Gas Trans., L.P
+Coenergy Ventures, Inc
+10-15-93
+G-5
+30,000
+N
+I
+10-01-93
+10-31-93.
+ST94-207
+Florida Gas Transmission Co 
+City of Lakeland
+10-15-93
+G-5
+9,338
+N
+I
+08-20-93
+INDF.
+ST94-208
+Tennessee Gas Pipeline Co 
+People's Natural Gas Co
+10-18-93
+G-5
+33,357
+N
+F
+10-01-93
+INDF.
+ST94-209
+Tennessee Gas Pipeline Co 
+CNG Transmission Corp
+10-18-93
+G-5
+30,601
+N
+F
+10-08-93
+INDF.
+ST94-210
+Tennessee Gas Pipeline Co 
+Pawtucket Power Associates
+10-18-93
+G-5
+15,000
+N
+I
+10-01-93 
+INDF.
+ST94-211
+Tennessee Gas Pipeline Co 
+Niagara Mohawk Power Corp
+10-18-93
+G-5
+50,467
+N
+F
+10-01-93
+INDF.
+ST94-212
+Tennessee Gas Pipeline Co 
+Equitable Inc
+10-18-93
+G-5
+227,000
+N
+I
+10-01-93
+INDF.
+ST94-213
+Arkla Energy Resources Co
+Tenaska Marketing Ventures
+10-18-93
+G-5
+75,000
+N
+I
+09-01-93
+INDF.
+ST94-214
+Arkla Energy Resources Co
+J. Aron & Co
+10-18-93
+G-5
+30,000
+N
+I
+09-01-93
+INDF.
+ST94-215
+Arkla Energy Resources Co
+Vesta Energy Co
+10-18-93
+G-5
+230
+N
+F
+09-01-93
+INDF.
+ST94-216
+Arkla Energy Resources Co
+Reynolds Metals Co
+10-18-93
+G-5
+3,000
+N
+I
+09-01-93
+INDF.
+ST94-217
+Trunkline Gas Co
+City of Vienna
+10-18-93
+G-5
+1,449
+N
+I
+09-01-93
+INDF.
+ST94-218
+Trunkline Gas Co
+United Cities Gas Co
+10-18-93
+G-5
+621
+N
+I
+09-01-93
+INDF.
+ST94-219
+Trunkline Gas Co 
+Entex 
+10-18-93
+G-5
+5,072
+N
+I
+09-01-93
+INDF.
+ST94-220
+Trunkline Gas Co
+Central Illinois Public Service Co
+10-18-93
+G-5
+10,340
+N
+I
+09-01-93
+INDF.
+ST94-221
+Trunkline Gas Co
+City of Hickman
+10-18-93
+G-5
+3,002
+N
+I
+09-01-93
+INDF.
+ST94-222
+Trunkline Gas Co
+United Cities Gas Co
+10-18-93
+G-5
+10,350
+N
+I
+09-01-93
+INDF.
+ST94-223
+Trunkline Gas Co
+City of Clay City
+10-18-93
+G-5
+1,139
+N
+I
+09-01-93
+INDF.
+ST94-224
+Trunkline Gas Co
+Vesta Energy Co
+10-18-93
+G-5
+10,000
+N
+I
+09-01-93
+INDF.
+ST94-225
+Trunkline Gas Co
+BP Gas, Inc
+10-18-93
+G-5
+350,000
+N
+I
+09-26-93
+INDF.
+ST94-226
+Trunkline Gas Co
+Chevron U.S.A., Inc
+10-18-93
+G-5
+20,000
+N
+I
+09-01-93
+INDF.
+ST94-227
+Trunkline Gas Co
+Chevron U.S.A., Inc
+10-18-93
+G-5
+20,000
+N
+I
+09-01-93
+INDF.
+ST94-228
+Arkansas Oklahoma Gas Corp
+Ozark Gas Trans. System, et al
+10-18-93
+C
+800
+N
+I
+09-01-93
+INDF.
+ST94-229
+Natural Gas P/L Co. of America 
+Northern Indiana Public Service Co
+10-18-93
+G-5
+310,000
+N
+I
+07-12-93
+INDF.
+ST94-230
+Natural Gas P/L Co. of America 
+Northern Indiana Public Service Co
+10-18-93
+G-5
+100,000
+N
+I
+07-12-93
+INDF.
+ST94-231
+Natural Gas P/L Co. of America 
+North Shore Gas Co
+10-18-93
+G-5
+10,000
+N
+F
+09-25-93
+10-25-93.
+ST94-232
+Transtexas Pipeline 
+Texas Eastern Transmission Corp
+10-18-93
+C
+32,939
+N
+I
+10-01-93
+INDF.
+ST94-233
+Valero Transmission, L.P 
+Tennessee Gas Pipeline Co
+10-18-93
+C
+7,500
+N
+I
+10-01-93
+INDF.
+ST94-234
+Valero Transmission, L.P 
+Trunkline Gas Co
+10-18-93
+C
+10,927
+N
+I
+10-01-93
+INDF.
+ST94-235
+Valero Transmission, L.P 
+Texas Eastern Transmission Corp
+10-18-93
+C
+11,612
+N
+I
+10-03-93
+INDF.
+ST94-236
+Transtexas Pipeline 
+Tennessee Gas Pipeline Co
+10-18-93
+C
+7,500
+N
+I
+10-01-93
+INDF.
+ST94-237
+Bridgeline Gas Distribution Co
+Columbia Gulf Transmission Co
+10-19-93
+G-HT
+11,874
+N
+F
+09-22-93
+INDF.
+ST94-238
+Tennessee Gas Pipeline Co 
+Alcan Aluminum Corp
+10-19-93
+G-5
+7,000
+N
+F
+10-05-93
+INDF.
+ST94-239
+Tennessee Gas Pipeline Co 
+Transco Energy Marketing Co
+10-19-93
+G-5
+1,138
+N
+F
+10-01-93
+INDF.
+ST94-240
+Tennessee Gas Pipeline Co 
+CNG Transmission Corp
+10-19-93
+G-5
+402,540
+N
+F
+10-01-93
+INDF.
+ST94-241
+Tennessee Gas Pipeline Co 
+Enron Gas Marketing, Inc
+10-19-93
+G-5
+N/A
+N
+I
+10-01-93
+INDF.
+ST94-242
+Transcontinental Gas P/L Corp 
+Ledco, Inc
+10-19-93
+G-5
+80,000
+N
+I
+10-01-93
+INDF.
+ST94-243
+Transcontinental Gas P/L Corp 
+Vesta Energy Co
+10-19-93
+G-5
+1,000
+N
+I
+10-02-93
+INDF.
+ST94-244
+Transcontinental Gas P/L Corp 
+Associated Natural Gas, Inc
+10-19-93
+G-5
+180,000
+N
+I
+10-08-93
+INDF.
+ST94-245
+Colorado Interstate Gas Co 
+Snyder Oil Corp
+10-19-93
+G-5
+50,076
+N
+F
+10-01-93
+04-30-08.
+ST94-246
+Trunkline Gas Co 
+Louisiana Gas Service Co
+10-20-93
+G-5
+104
+N
+I
+09-01-93
+INDF.
+ST94-247
+Trunkline Gas Co 
+City of Colfax
+10-20-93
+G-5
+932
+N
+I
+09-01-93
+INDF.
+ST94-248
+Trunkline Gas Co 
+Lake County Utility District
+10-20-93
+G-5
+4,140
+N
+I
+09-01-93
+INDF.
+ST94-249 
+Trunkline Gas Co 
+Hardeman-Fayette Utility District 
+ 10-20-93 
+G-S 
+3,933 
+N 
+I 
+09-01-93 
+Indef.
+ST94-250 
+Trunkline Gas Co 
+City of Jeffersonville 
+10-20-93 
+G-S 
+414 
+N 
+I 
+09-01-93 
+Indef.
+ST94-251 
+Enogex Inc 
+Arkla Energy Resources Co 
+10-20-93 
+C 
+50,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-252 
+Enogex Inc 
+Phillips Gas Pipeline Co 
+10-20-93 
+C 
+10,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-253 
+Northern Natural Gas Co 
+Enron Oil & Gas Marketing, Inc 
+10-20-93 
+G-S 
+47,500 
+A 
+F/I 
+09-23-93 
+Indef.
+ST94-254 
+Transwestern Pipeline Co 
+Southern California Gas Co 
+10-20-93 
+B 
+100,000 
+N 
+I 
+09-20-93 
+Indef.
+ST94-255 
+Transwestern Pipeline Co 
+U.S. Gas Transport, Inc 
+10-20-93 
+G-S 
+12,000 
+N 
+F 
+09-24-93 
+09-30-93 
+ST94-256 
+Tennessee Gas Pipeline Co 
+Connecticut Natural Gas Corp 
+10-20-93 
+G-S 
+2,336 
+N 
+F 
+10-01-93 
+Indef.
+ST94-257 
+Tennessee Gas Pipeline Co 
+Rochester Gas & Electric Corp 
+10-20-93 
+ G-S 
+35,485 
+N 
+F 
+10-01-93 
+Indef.
+ST94-258 
+Tennessee Gas Pipeline Co 
+Hope Gas, Inc 
+10-20-93 
+G-S 
+2,261 
+N 
+F 
+10-01-93 
+Indef.
+ST94-259 
+Tennessee Gas Pipeline Co 
+Washington Gas Light Co 
+10-20-93 
+G-S 
+4,128 
+N 
+F 
+10-06-93 
+Indef.
+ST94-260 
+Midwestern Gas Transmission Co 
+Phibro Energy, Inc 
+10-20-93 
+G-S 
+200,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-261 
+Midwestern Gas Transmission Co 
+Centran Corp 
+10-20-93 
+G-S 
+30,000 
+N 
+I 
+10-01-93 
+Indef
+ST94-262 
+Midwestern Gas Transmission Co 
+Entrade Corp 
+10-20-93 
+G-S 
+5,300 
+A 
+F 
+10-01-93 
+Indef.
+ST94-263 
+Midwestern Gas Transmission Co 
+Northern Indiana Public Service Co 
+10-20-93 
+G-S 
+100,000 
+N 
+F 
+10-01-93 
+Indef.
+ST94-264 
+Transcontinental Gas P/L Corp 
+Washington Gas Light Co 
+10-20-93 
+B 
+405,000 
+N 
+I 
+10-06-93 
+Indef.
+ST94-265 
+Colorado Interstate Gas Co 
+Mountain Cement Co 
+10-20-93 
+G-S 
+100 
+N 
+I 
+10-01-93 
+Indef.
+ST94-266 
+Colorado Interstate Gas Co 
+Coastal Gas Marketing Co 
+10-20-93 
+G-S 
+149,473 
+A 
+I 
+10-01-93 
+12-31-99
+ST94-267 
+Colorado Interstate Gas Co 
+Stand Energy Corp 
+10-20-93 
+G-S 
+100 
+N 
+I 
+10-01-93 
+Indef.
+ST94-268 
+Colorado Interstate Gas Co 
+Windsor Gardens Association 
+10-20-93 
+G-S 
+525 
+N 
+I 
+10-01-93 
+Indef.
+ST94-269 
+Colorado Interstate Gas Co 
+Western Gas Resources, Inc 
+10-20-93 
+G-S 
+67,700 
+N 
+I 
+10-01-93 
+Indef.
+ST94-270 
+Colorad99Interstate Gas Co 
+Associated Intrastate Pipeline Co 
+10-20-93 
+G-S 
+86,375 
+N 
+I 
+10-01-93 
+Indef.
+ST94-271 
+Colorado Interstate Gas Co 
+Associated Intrastate Pipeline Co 
+10-20-93 
+G-S 
+9,424 
+N 
+I 
+10-01-93 
+Indef.
+ST94-272 
+ANR Pipeline Co 
+Associated Natural Gas, Inc 
+10-20-93 
+G-S 
+150,000 
+N 
+I 
+09-28-93 
+Indef.
+ST94-273 
+ANR Pipeline Co 
+Union Pacific Fuels, Inc 
+10-20-93 
+G-S 
+100,000 
+N 
+F 
+10-01-93 
+10-31-93
+ST94-274 
+ANR Pipeline Co 
+Coastal Gas Marketing Co 
+10-20-93 
+G-S 
+50,000 
+A 
+I 
+10-01-93 
+Indef.
+ST94-275 
+ANR Pipeline Co 
+Oryx Gas Marketing, L.P. 
+10-20-93 
+G-S 
+150,000 
+N 
+I 
+09-26-93 
+Indef.
+ST94-276 
+ANR Pipeline Co 
+Frontier Natural Gas Corp 
+10-20-93 
+G-S 
+4,000 
+N 
+F 
+10-01-93 
+10-31-93
+ST94-277 
+ANR Pipeline Co 
+O&R Energy, Inc 
+10-20-93 
+G-S 
+50,000 
+N 
+F 
+10-02-93 
+Indef.
+ST94-278 
+ANR Pipeline Co 
+Semco Energy Services, Inc 
+10-20-93 
+G-S 
+3,600 
+N 
+F 
+10-01-93 
+10-31-93
+ST94-279 
+Koch Gateway Pipeline Co 
+KCS Energy Marketing, Inc 
+10-21-93 
+G-S 
+78,600 
+N 
+I 
+10-13-93 
+02-10-94
+ST94-280 
+Koch Gateway Pipeline Co 
+Chevron U.S.A., Inc 
+10-21-93 
+G-S 
+78,600 
+N 
+I 
+10-13-93 
+02-10-94
+ST94-281 
+Koch Gateway Pipeline Co 
+Chevron U.S.A., Inc 
+10-21-93 
+G-S 
+300,000 
+N 
+I 
+10-13-93 
+02-10-94
+ST94-282 
+Koch Gateway Pipeline Co 
+Texaco Gas Marketing, Inc 
+10-21-93 
+G-S 
+32,900 
+N 
+I 
+10-14-93 
+02-11-94
+ST94-283 
+Koch Gateway Pipeline Co 
+MG Natural Gas Corp 
+10-21-93 
+G-S 
+41,920 
+N 
+I 
+10-13-93 
+02-10-94
+ST94-284 
+Colorado Interstate Gas Co 
+Anadarko Trading Corp 
+10-21-93 
+G-S 
+226 
+N 
+I 
+10-01-93 
+Indef.
+ST94-285 
+Colorado Interstate Gas Co 
+Amoco Energy Trading Corp 
+10-21-93 
+G-S 
+100 
+N 
+I 
+10-01-93 
+Indef.
+ST94-286 
+Colorado Interstate Gas Co 
+OXY USA, Inc 
+10-21-93 
+G-S 
+22,282 
+N 
+I 
+10-01-93 
+Indef.
+ST94-287 
+Colorado Interstate Gas Co 
+Western Natural Gas & Trans. Corp 
+10-21-93 
+G-S 
+18,727 
+N 
+I 
+10-01-93 
+Indef.
+ST94-288 
+Colorado Interstate Gas Co 
+Interenergy Transmission Partners 
+10-21-93 
+G-S 
+20,990 
+N 
+I 
+10-01-93 
+Indef.
+ST94-289 
+Colorado Interstate Gas Co 
+Associated Intrastate Pipeline Co 
+10-21-93 
+G-S 
+14,110 
+N 
+I 
+10-01-93 
+Indef.
+ST94-290 
+Trailblazer Pipeline Co 
+Arkla Energy Marketing Co 
+10-21-93 
+Gas9S 
+353,000 
+N 
+I 
+10-01-93
+Indef.
+ST94-291 
+U-T Offshore System 
+National Gas Resources, L.P. 
+10-21-93 
+G-S 
+50,000 
+N 
+I 
+10-08-93 
+10-07-94
+ST94-292 
+Westar Transmission Co 
+Natural Gas Pipeline Co. of America 
+10-21-93 
+C 
+20,000 
+N 
+I 
+09-04-93 
+Indef.
+ST94-293 
+Tennessee Gas Pipeline Co 
+Tenngasco Corp 
+10-22-93 
+G-S 
+1,200 
+A 
+F 
+10-01-93 
+Indef.
+ST94-294 
+K N Interstate Gas Trans. Co 
+Enron Gas Marketing, Inc 
+10-22-93 
+G-S 
+75,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-295 
+K N Interstate Gas Trans. Co 
+Maxus Exploration Co 
+10-22-93 
+G-S 
+50,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-296 
+K N Interstate Gas Trans. Co 
+Associated Intrastate Pipeline Co 
+10-22-93 
+B 
+50,000 
+A 
+I 
+10-01-93 
+Indef.
+ST94-297 
+K N Interstate Gas Trans. Co 
+Arco Natural Gas Marketing, Inc 
+10-22-93 
+G-S 
+195,000 
+N 
+I 
+10-01-93
+Indef.
+ST94-298 
+K N Interstate Gas Trans. Co 
+LL&E Interstate Gas Transmission Co 
+10-22-93 
+G-S 
+50,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-299 
+K N Interstate Gas Trans. Co 
+Vesta Energy Co 
+10-22-93 
+G-S 
+50,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-300 
+K N Interstate Gas Trans. Co 
+Exxon Corp 
+10-22-93 
+G-S 
+23,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-301 
+K N Interstate Gas Trans. Co 
+Energy Dynamics, Inc 
+10-22-93 
+G-S 
+30,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-302 
+K N Interstate Gas Trans. Co 
+Mississippi River Transmission Corp 
+10-22-93 
+G 
+5,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-303 
+K N Interstate Gas Trans. Co 
+Associated Natural Gas, Inc 
+10-22-93 
+G-S 
+100,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-304 
+K N Interstate Gas Trans. Co 
+Pennzoil Gas Marketing Co 
+10-22-93 
+G-S 
+5,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-305 
+K N Interstate Gas Trans. Co 
+Coastal Gas Marketing Co 
+10-22-93 
+G-S 
+30,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-306 
+K N Interstate Gas Trans. Co 
+Chevron USA, Inc 
+10-22-93 
+G-S 
+25,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-307 
+K N Interstate Gas Trans. Co 
+Chevron USA, Inc 
+10-22-93 
+G-S 
+60,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-308 
+K N Interstate Gas Trans. Co 
+Aquila Energy Marketing Corp 
+10-22-93 
+G-S 
+100,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-309 
+K N Interstate Gas Trans. Co 
+Enogex Services Corp 
+10-22-93 
+G-S 
+50,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-310 
+K N Interstate Gas Trans. Co 
+Premier Gas Co 
+10-22-93 
+G-S 
+20,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-311 
+K N Interstate Gas Trans. Co 
+Delhi Gas Pipeline Corp 
+10-22-93 
+B 
+75,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-312 
+K N Interstate Gas Trans. Co 
+Transok Gas Co 
+10-22-93 
+G-S 
+50,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-313 
+K N Interstate Gas Trans. Co 
+Williams Gas Marketing Co 
+10-22-93 
+G-S 
+80,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-314 
+K N Interstate Gas Trans. Co 
+New Mexico Natural Gas Co., Inc 
+10-22-93 
+B 
+15,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-315 
+K N Interstate Gas Trans. Co 
+Oryx Gas Marketing, L.P. 
+10-22-93 
+G-S 
+130,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-316 
+K N Interstate Gas Trans. Co 
+Equitable Resources Marketing Co 
+10-22-93 
+G-S 
+20,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-317 
+K N Interstate Gas Trans. Co 
+Post Rock Gas, Inc 
+10-22-93 
+G-S 
+2,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-318 
+Natural Gas P/L Co. of America 
+O&R Energy, Inc 
+10-22-93 
+G-S 
+10,000 
+N 
+F 
+10-09-93 
+10-31-93
+ST94-319 
+Natural Gas P/L Co. of America 
+Associated Natural Gas, Inc 
+10-22-93 
+G-S 
+70,500 
+N 
+F 
+10-01-93 
+09-30-98
+ST94-320 
+Houston Pipe Line Co 
+Northern Natural Gas Co 
+10-22-93 
+C 
+10,000 
+N 
+I 
+09-01-93 
+Indef.
+ST94-321 
+Houston Pipe Line Co 
+Northern Natural Gas Co 
+10-22-93 
+C 
+50,000 
+N 
+I 
+09-27-93 
+Indef.
+ST94-322 
+Colorado Interstate Gas Co 
+Coastal Oil & Gas Corp 
+10-22-93 
+G-S 
+33,336 
+A 
+I 
+10-01-93 
+Indef.
+ST94-323 
+ANR Pipeline Co 
+Coastal Gas Marketing Co 
+10-22-93 
+G-S 
+230,000 
+A 
+I 
+10-01-93 
+Indef.
+ST94-324 
+Oasis Pipe Line Co 
+Transwestern Pipeline Co 
+10-22-93 
+C 
+7,000 
+N 
+I 
+08-01-93 
+Indef.
+ST94-325 
+Oasis Pipe Line Co 
+AMOCO Gas Co 
+10-22-93 
+C 
+50,000 
+N 
+I 
+09-01-93 
+Indef.
+ST94-326 
+Houston Pipe Line Co 
+Natural Gas Pipeline Co. of America 
+10-22-93 
+C 
+25,000 
+N 
+I 
+09-24-93 
+Indef.
+ST94-327 
+Colorado Interstate Gas Co 
+Aquila Energy Marketing Corp 
+10-22-93 
+G-S 
+10,367 
+N 
+I 
+10-01-93 
+Indef.
+ST94-328 
+Colorado Interstate Gas Co 
+Associated Intrastate Pipeline Co 
+10-22-93 
+G-S 
+32,292 
+N 
+I 
+10-01-93 
+Indef.
+ST94-329 
+Colorado Interstate Gas Co 
+Chevron USA, Inc 
+10-22-93 
+G-S 
+147 
+N 
+I 
+10-01-93 
+Indef.
+ST94-330 
+Colorado Interstate Gas Co 
+Coastal Chem, Inc 
+10-22-93 
+G-S 
+17,616 
+A 
+I 
+10-01-93 
+Indef.
+ST94-331 
+K N Interstate Gas Trans. Co 
+Boyd Rosene & Associates, Inc 
+10-25-93 
+G-S 
+10,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-332 
+K N Interstate Gas Trans. Co 
+Premier Gas Co 
+10-25-93 
+G-S 
+6,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-333 
+K N Interstate Gas Trans. Co 
+Mobil Natural Gas, Inc 
+10-25-93 
+G-S 
+19,000 
+N 
+F 
+10-01-93 
+02-28-95
+ST94-334 
+K N Interstate Gas Trans. Co 
+Transok, Inc 
+10-25-93 
+B 
+25,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-335 
+K N Interstate Gas Trans. Co 
+Tenaska Marketing Ventures 
+10-25-93 
+G-S 
+5,154 
+N 
+F 
+10-01-93 
+10-31-93
+ST94-336 
+K N Interstate Gas Trans. Co 
+Bridge Gas USA, Inc 
+10-25-93 
+G-S 
+75,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-337 
+K N Interstate Gas Trans. Co 
+Western Natural Gas & Trans. Corp 
+10-25-93 
+G-S 
+500 
+N 
+I 
+10-01-93 
+Indef.
+ST94-338 
+K N Interstate Gas Trans. Co 
+Transok, Inc 
+10-25-93 
+B 
+50,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-339 
+K N Interstate Gas Trans. Co 
+LL&E Gas Marketing, Inc 
+10-25-93 
+G-S 
+5,015 
+N 
+F 
+10-01-93 
+03-31-94
+ST94-340 
+K N Interstate Gas Trans. Co 
+Coastal Gas Marketing Co 
+10-25-93 
+G-S 
+50,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-341 
+K N Interstate Gas Trans. Co 
+Chevron USA Production Co 
+10-25-93 
+G-S 
+32,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-342 
+K N Interstate Gas Trans. Co 
+Aquila Energy Marketing corp. 
+10-25-93 
+G-S 
+150,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-343 
+K N Interstate Gas Trans. Co 
+Texaco Gas Marketing, Inc 
+10-25-93 
+G-S 
+5,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-344 
+K N Interstate Gas Trans. Co 
+Western Gas Resources, Inc 
+10-25-93 
+G-S 
+25,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-345 
+K N Interstate Gas Trans. Co 
+Continental Natural Gas, Inc 
+10-25-93 
+G-S 
+50,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-346 
+K N Interstate Gas Trans. Co 
+Universal Resources Corp 
+10-25-93 
+G-S 
+27,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-347
+K N Interstate Gas Trans. Co
+American Central Gas Cos., Inc
+10-25-93
+G-S
+100,000
+N
+I
+10-01-93
+Indef.
+ST94-348
+K N Interstate Gas Trans. Co
+Enron Gas Marketing, Inc
+10-25-93
+G-S
+30,000
+N
+I
+10-01-93
+Indef.
+ST94-349
+K N Interstate Gas Trans. Co
+Oxy USA, Inc
+10-25-93
+G-S
+20,000
+N
+I
+10-01-93
+Indef.
+ST94-350
+K N Interstate Gas Trans. Co
+North Canadian Marketing Corp
+10-25-93
+G-S
+50,000
+N
+I
+10-01-93
+Indef.
+ST94-351
+K N Interstate Gas Trans. Co
+Anadarko Trading Co
+10-25-93
+G-S
+30,000
+N
+I
+10-01-93
+Indef.
+ST94-352
+K N Interstate Gas Trans. Co
+Williams Gas Marketing Co
+10-25-93
+G-S
+100,000
+N
+I
+10-01-93
+Indef.
+ST94-353
+K N Interstate Gas Trans. Co
+Prairie Gas Transportation Co
+10-25-93
+G-S
+20,000
+N
+I
+10-01-93
+Indef.
+ST94-354
+K N Interstate Gas Trans. Co
+K N Gas Marketing, Inc
+10-25-93
+G-S
+250,000
+A
+I
+10-01-93
+Indef.
+ST94-355
+K N Interstate Gas Trans. Co
+Kerr-McGee Corp
+10-25-93
+G-S
+30,000
+N
+I
+10-01-93
+Indef.
+ST94-356
+K N Interstate Gas Trans. Co
+Mountain Iron & Supply Co
+10-25-93
+G-S
+20,000
+N
+I
+10-01-93
+Indef.
+ST94-357
+K N Interstate Gas Trans. Co
+Tenaska Marketing Ventures
+10-25-93
+G-S
+100,000
+N
+I
+10-01-93
+Indef.
+ST94-358
+K N Interstate Gas Trans. Co
+Texaco Exploration & Production
+10-25-93
+G-S
+10,000
+N
+I
+10-01-93
+Indef.
+ST94-359
+K N Interstate Gas Trans. Co
+Interenergy Corp
+10-25-93
+G-S
+5,000
+N
+I
+10-01-93
+Indef.
+ST94-360
+K N Interstate Gas Trans. Co
+Cimarron Gas Companies, Inc
+10-25-93
+G-S
+50,000
+N
+I
+10-01-93
+Indef.
+ST94-361
+Mojave Pipeline Co
+Meridian Oil, Inc
+10-25-93
+G-S
+100,000
+N
+F
+12-21-90
+10-02-08
+ST94-362
+K N Interstate Gas Trans. Co
+Boyd Rosene & Associates, Inc
+10-25-93
+G-S
+12,000
+N
+I
+10-01-93
+Indef.
+ST94-363
+K N Interstate Gas Trans. Co
+Transok, Inc
+10-25-93
+B
+50,000
+N
+I
+10-01-93
+Indef.
+ST94-364
+Colorado Interstate Gas Co
+K N Gas Marketing, Inc
+10-25-93
+G-S
+108,789
+N
+I
+10-01-93
+Indef.
+ST94-365
+Colorado Interstate Gas Co
+Consolidated Fuel Corp
+10-25-93
+G-S
+1,513
+N
+I
+10-01-93
+Indef.
+ST94-366
+Colorado Interstate Gas Co
+Farmer's Union Central Exchange
+10-25-93
+G-S
+3,412
+N
+I
+10-01-93
+Indef.
+ST94-367
+Colorado Interstate Gas Co
+Grand Valley Gas Co
+10-25-93
+G-S
+13,402
+N
+I
+10-01-93
+Indef.
+ST94-368
+Colorado Interstate Gas Co
+Kiowa Gas Co
+10-25-93
+G-S
+274
+N
+I
+10-01-93
+Indef.
+ST94-369
+Natural Gas P/L Co. of America
+International Paper Co
+10-25-93
+G-S
+16,500
+N
+F
+09-01-93
+06-30-94
+ST94-370
+Transco-Louisiana Intra. P/L Co
+Transcontinental Gas Pipe Line Corp
+10-25-93
+C
+120,000
+N
+I
+08-01-93
+Indef.
+ST94-371
+Valero Transmission, L.P
+Trunkline Gas Co
+10-26-93
+C
+10,000
+N
+I
+10-01-93
+Indef.
+ST94-372
+Mojave Pipeline Co
+Meridian Oil, Inc
+10-25-93
+G-S
+100,000
+N
+F
+10-03-93
+10-02-08
+ST94-373
+Trunkline Gas Co
+City of Somerville
+10-26-93
+G-S
+1,705
+N
+F
+09-01-93
+Indef.
+ST94-374
+Trunkline Gas Co
+Direct Gas Supply Corp
+10-26-93
+G-S
+12,420
+N
+I
+10-01-93
+Indef.
+ST94-375
+Trunkline Gas Co
+Yuma Gas Corp
+10-26-93
+G-S
+51,750
+N
+I
+09-01-93
+Indef.
+ST94-376
+Trunkline Gas Co
+Electric Energy, Inc
+10-26-93
+G-S
+136,620
+N
+I
+10-03-93
+Indef.
+ST94-377
+Trunkline Gas Co
+City of Sims
+10-26-93
+G-S
+311
+N
+F
+09-01-93
+Indef.
+ST94-378
+Trunkline Gas Co
+City of Boyce
+10-26-93
+G-S
+932
+N
+F
+09-01-93
+Indef.
+ST94-379
+Trunkline Gas Co
+City of Louisville
+10-26-93
+G-S
+1,242
+N
+F
+09-01-93
+Indef.
+ST94-380
+Trunkline Gas Co
+City of Cisne
+10-26-93
+G-S
+828
+N
+F
+09-01-93
+Indef.
+ST94-381
+Trunkline Gas Co
+City of McLeansboro
+10-26-93
+G-S
+3,312
+N
+F
+09-01-93
+Indef.
+ST94-382
+Trunkline Gas Co
+KCS Energy Marketing, Inc
+10-26-93
+G-S
+51,750
+N
+I
+09-01-93
+Indef.
+ST94-383
+Trunkline Gas Co
+City of Pittsburg
+10-26-93
+G-S
+311
+N
+F
+09-01-93
+Indef.
+ST94-384
+Trunkline Gas Co
+Consolidated Fuel Corp
+10-26-93
+G-S
+51,750
+N
+I
+09-09-93
+Indef.
+ST94-385
+Trunkline Gas Co
+Unigas Energy, Inc
+10-26-93
+G-S
+20,700
+N
+I
+09-01-93
+Indef.
+ST94-386
+Trunkline Gas Co
+Coastal Gas Marketing Co
+10-26-93
+G-S
+207,000
+N
+I
+09-01-93
+Indef.
+ST94-387
+Trunkline Gas Co
+Panhandle Trading Co
+10-26-93
+G-S
+100,000
+A
+I
+09-07-93
+Indef.
+ST94-388
+Trunkline Gas Co
+City of Obion
+10-26-93
+G-S
+302,220
+N
+F
+09-01-93
+Indef.
+ST94-389
+Trunkline Gas Co
+City of Fairfield
+10-26-93
+G-S
+6,417
+N
+F
+09-01-93
+Indef.
+ST94-390
+Colorado Interstate Gas Co
+NGC Transportation, Inc
+10-26-93
+G-S
+8,345
+N
+I
+09-01-93
+Indef.
+ST94-391
+Colorado Interstate Gas Co
+People Natural Gas Co
+10-26-93
+G-S
+489
+N
+I
+09-01-93
+Indef.
+ST94-392
+Colorado Interstate Gas Co
+PG&E Resources Co
+10-26-93
+G-S
+3,000
+N
+I
+09-01-93
+Indef.
+ST94-393
+Colorado Interstate Gas Co
+Mountain Fuel Supply Co
+10-26-93
+G-S
+508
+N
+I
+09-01-93
+Indef.
+ST94-394
+Colorado Interstate Gas Co
+Quivira Gas Co
+10-26-93
+G-S
+9,652
+N
+I
+09-01-93
+Indef.
+ST94-395
+El Paso Natural Gas Co
+Mock Resources, Inc
+10-26-93
+G-S
+10,300
+N
+I
+10-01-93
+Indef.
+ST94-396
+Trunkline Gas Co
+Eastex Hydrocarbons, Inc
+10-27-93
+G-S
+20,000
+N
+I
+10-01-93
+Indef.
+ST94-397
+Trunkline Gas Co
+City of Dahlgren
+10-27-93
+G-S
+427
+N
+F
+09-01-93
+Indef.
+ST94-398
+Panhandle Eastern Pipe Line Co
+Entrade Corp
+10-27-93
+G-S
+200,000
+N
+I
+10-01-93
+09-30-98.
+ST94-399
+Panhandle Eastern Pipe Line Co
+Thomson Consumer Electronics, Inc
+10-27-93
+G-S
+1,500
+N
+F
+10-01-93
+09-30-96.
+ST94-400
+Algonquin Gas Transmission Co
+Commonwealth Gas Co
+10-27-93
+B
+10,380
+N
+F
+10-13-93
+Indef.
+ST94-401
+Algonquin Gas Transmission Co
+Yankee Gas Services Co 
+10-27-93
+B
+6,066
+N
+F
+10-12-93
+Indef.
+St94-402
+Algonquin Gas Transmission Co
+Southern Connecticut Gas
+10-27-93
+B
+4,517
+N
+FF
+10-13-93
+Indef.
+ST94-403
+Algonquin Gas Transmission Co
+Colonial Gas Co
+10-27-93
+B
+7,918
+N
+F
+10-07-93
+Indef.
+ST94-404
+Algonquin Gas Transmission Co
+Yankee Gas Services Co
+10-27-93
+B
+8,862
+N
+F
+10-06-93
+Indef.
+ST94-405
+Algonquin Gas Transmission Co
+Commonwealth Gas Co
+10-27-93
+B
+16,226
+N
+F
+10-12-93
+Indef.
+ST94-406
+Columbia Gas Transmission Corp
+United States Gypsum Co
+10-27-93
+G-S
+1,000
+N
+I
+10-01-93
+Indef.
+ST94-407
+Colorado Interstate Gas Co
+Rhone-Poulenc Pipeline Co
+10-27-93
+G-S
+3,261
+N
+I
+10-01-93
+Indef.
+ST94-408
+Colorado Interstate Gas Co
+Rangeline Corp
+10-27-93
+G-S
+164
+N
+I
+10-01-93
+Indef.
+ST94-409
+Colorado Interstate Gas Co
+Snyder Oil Corp
+10-27-93
+G-S
+33,639
+N
+I
+10-01-93
+Indef.
+ST94-410
+Colorado Interstate Gas Co
+SDS Petroleum Products, Inc
+10-27-93
+G-S
+181
+N
+I
+10-01-93
+Indef.
+ST94-411
+Colorado Interstate Gas Co
+Santa Fe Minerals, Inc
+10-27-93
+G-S
+823
+N
+I
+10-01-93
+Indef.
+ST94-412
+Colorado Interstate Gas Co
+Sinclair Oil Corp
+10-27-93
+G-S
+8,709
+N
+I
+10-01-93
+Indef.
+ST94-413
+Midwestern Gas Transmission Co
+Superior Natural Gas Corp
+10-28-93
+G-S
+100,000
+N
+I
+10-01-93
+Indef.
+ST94-414
+Tennessee Gas Pipeline Co
+East Ohio Gas
+10-28-93
+G-S
+48,385
+N
+F
+10-01-93
+Indef.
+ST94-415
+Tennessee Gas Pipeline Co
+Corning Natural Gas Corp
+10-28-93
+G-S
+3,854
+N
+F
+10-01-93
+Indef.
+ST94-416
+Tennessee Gas Pipeline Co
+CNG Gas Services Corp
+10-28-93
+G-S
+250,000
+N
+I
+10-15-93
+Indef.
+ST94-417
+Tennessee Gas Pipeline Co
+Washington Gas Light Co
+10-28-93
+G-S
+7,338
+N
+FF
+10-05-93
+Indef.
+ST94-418
+Tennessee Gas Pipeline Co
+Colonial Gas Co
+10-28-93
+G-S
+3,361
+N
+F
+10-01-93
+Indef.
+ST94-419
+Tennessee Gas Pipeline Co
+Public Service Electric & Gas Co
+10-28-93
+G-S
+10,206
+N
+FF
+10-13-93
+Indef.
+ST94-420
+Channel Industries Gas Co
+Tennessee Gas Pipeline Co., Et Al
+10-28-93
+C
+100,000
+Y
+I
+10-01-93
+Indef.
+ST94-421
+Gas Co. of New Mexico
+El Paso Natural Gas Co
+10-28-93
+C
+20,000
+N
+I
+10-08-93
+Indef.
+ST94-422
+Valero Transmission, L.P
+Texas Eastern Transmission Corp
+10-28-93
+C
+9,500
+N
+I
+10-01-93
+Indef.
+ST94-423
+Colorado Interstate Gas Co
+Union Pacific Fuels, Inc
+10-28-93
+G-S
+10,250
+N
+I
+10-01-93
+Indef.
+ST94-424
+Colorado Interstate Gas Co
+Texaco Gas Marketing, Inc
+10-28-93
+G-S
+44,615
+N
+I
+10-01-93
+Indef.
+ST94-425
+Colorado Interstate Gas Co
+Tiger National Gas, Inc
+10-28-93
+G-S
+121
+N
+I
+10-01-93
+Indef.
+ST94-426
+Colorado Interstate Gas Co
+Public Service Co. of Colorado
+10-28-93
+G-S
+10,276
+N
+I
+10-01-93
+Indef.
+ST94-427
+Colorado Interstate Gas Co
+Public Service Co. of Colorado
+10-28-93
+G-S
+6,000
+N
+I
+10-01-93
+Indef.
+ST94-428
+Colorado Interstate Gas Co
+Universial Resources Corp
+10-28-93
+G-S
+4,474
+N
+I
+10-14-93
+Indef.
+ST94-429
+Colorado Interstate Gas Co
+Vesgas Co
+10-28-93
+G-S
+6,870
+N
+I
+10-01-93
+Indef.
+ST94-430
+Transwestern Pipeline Co
+Clayton Williams Energy, Inc
+10-28-93
+G-S
+2,760
+N
+F
+10-01-93
+10-31-93.
+ST94-431
+Transwestern Pipeline Co
+Brooklyn Interstate Natural Gas
+10-28-93
+G-S
+5,000
+N
+F
+10-01-93
+10-31-93.
+ST94-432
+Transwestern Pipeline Co
+Anthem Energy Co., L.P
+10-28-93
+G-S
+13,780
+N
+F
+10-01-93
+10-31-93.
+ST94-433
+Transwestern Pipeline Co
+Richardson Products Co
+10-28-93
+G-S
+41,340
+N
+F
+10-01-93
+10-31-93.
+ST94-434
+Transwestern Pipeline Co
+NGC Transportation, Inc
+10-28-93
+G-S
+19,570
+N
+F
+10-01-93
+10-31-93.
+ST94-435
+Transwestern Pipeline Co
+NGC Transportation, Inc
+10-28-93
+G-S
+15,790
+N
+F
+10-01-93
+10-31-93.
+ST94-436
+Transwestern Pipeline Co
+GPM Gas Corp
+10-28-93
+G-S
+20,000
+N
+F
+10-01-93
+10-31-93.
+ST94-437
+Transwestern Pipeline Co
+Enron Gas Marketing, Inc
+10-28-93
+G-S
+200
+N
+A
+10-01-93
+06-30-94.
+ST94-438
+Transwestern Pipeline Co
+Arkla Energy Marketing
+10-28-93
+G-S
+100,000
+N
+I
+10-01-93
+Indef.
+ST94-439
+Transwestern Pipeline Co
+Cibola Corp
+10-28-93
+G-S
+6,000
+N
+F
+10-01-93
+02-28-94.
+ST94-440
+Transwestern Pipeline Co
+Production Gathering Co
+10-28-93
+G-S
+530
+N
+F
+10-01-93
+10-31-93.
+ST94-441
+Transwestern Pipeline Co
+Tristar Gas Co
+10-28-93
+G-S
+6,128
+N
+F
+10-01-93
+10-31-93.
+ST94-442
+Transwestern Pipeline Co
+F&M Oil & Gas Co
+10-28-93
+G-S
+50,000
+N
+I
+10-01-93
+Indef.
+ST94-443
+Transwestern Pipeline Co
+Brooklyn Interstate Natural Gas
+10-28-93
+G-S
+50,000
+N
+I
+10-16-93
+Indef.
+ST94-444
+Transwestern Pipeline Co
+Production Gathering Co
+10-28-93
+G-S
+220
+N
+F
+10-01-93
+10-31-93.
+ST94-445 
+Transwestern Pipeline Co 
+Enogex Services Corp 
+10-28-93 
+G-S 
+3,500 
+N 
+F 
+10-02-93 
+10-31-93
+ST94-446 
+Transwestern Pipeline Co 
+Gas Co. of Mexico 
+10-28-93 
+G-S 
+5,000 
+N 
+F 
+10-05-93 
+10-31-93
+ST94-447 
+Transwestern Pipeline Co 
+Tristar Gas Co 
+10-28-93 
+G-S 
+1,000 
+N 
+F 
+10-02-93 
+10-31-93
+ST94-448 
+Transwestern Pipeline Co 
+Continental Natural Gas, Inc 
+10-28-93 
+G-S 
+5,000 
+N 
+F 
+10-01-93 
+10-31-93
+ST94-449 
+Transwestern Pipeline Co 
+Enron Gas Marketing, Inc 
+10-28-93 
+G-S 
+1,200 
+A 
+F 
+10-03-93 
+10-31-93
+ST94-450 
+Transwestern Pipeline Co 
+Tristar Gas Co 
+10-28-93 
+G-S 
+1,000 
+N 
+F 
+10-02-93 
+10-05-93
+ST94-451 
+Transwestern Pipeline Co 
+Enron Gas Marketing, Inc 
+10-28-93 
+G-S 
+4,175 
+A 
+F 
+10-06-93 
+10-31-93
+ST94-452 
+Transwestern Pipeline Co 
+Continental Natural Gas, Inc 
+10-28-93 
+G-S 
+5,000 
+N 
+F 
+10-01-93 
+10-31-93
+ST94-453 
+Williams Natural Gas Co 
+Grove Municipal Services Authority 
+10-28-93 
+G-S 
+5,500 
+N 
+F 
+10-01-93 
+Indef.
+ST94-454 
+Williams Natural Gas Co 
+Greeley Gas Co 
+10-28-93 
+G-S 
+1,187 
+N 
+F 
+10-01-93 
+Indef.
+ST94-455 
+Williams Natural Gas Co 
+Brock Gas Systems & Equipment, Inc 
+10-28-93 
+G-S 
+354 
+N 
+F 
+10-01-93 
+10-01-95
+ST94-456 
+Williams Natural Gas Co 
+Brock Gas Systems & Equipment, Inc 
+10-28-93 
+G-S 
+350 
+N 
+F 
+10-01-93 
+10-01-95
+ST94-457 
+Williams Natural Gas Co 
+Atchison Casting Corp 
+10-28-93 
+B 
+3,500 
+N 
+I 
+10-01-93 
+10-01-94
+ST94-458 
+Williams Natural Gas Co 
+Amarillo Natural Gas, Inc 
+10-28-93 
+B 
+250 
+N 
+I 
+10-01-93 
+Indef.
+ST94-459 
+Williams Natural Gas Co 
+Triumph Natural Gas, Inc 
+10-28-93 
+G-S 
+18,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-460 
+Williams Natural Gas Co 
+Farmland Industries, Inc 
+10-28-93 
+G-S 
+250,000 
+N 
+I 
+10-01-93 
+Indef.
+ST94-461 
+Williams Natural Gas Co 
+City Utilities of Springfield 
+10-28-93 
+G-S 
+120,000 
+N 
+I 
+10-20-93 
+Indef.
+ST94-462 
+Williams Natural Gas Co 
+American Central Gas Cos., Inc 
+10-28-93 
+G-S 
+20,000 
+N 
+I 
+10-01-93 
+10-01-94
+ST94-463 
+Williams Natural Gas Co 
+Citation Oil & Gas Corp 
+10-28-93 
+G-S 
+500 
+N 
+I 
+10-22-93 
+Indef.
+ST94-464 
+Williams Natural Gas Co 
+City of Burlingame 
+10-28-93 
+G-S 
+496 
+N 
+F 
+10-01-93 
+Indef.
+ST94-465 
+Williams Natural Gas Co 
+City of Denison 
+10-28-93 
+G-S 
+128 
+N 
+I 
+10-01-93 
+Indef.
+ST94-466 
+Williams Natural Gas Co 
+City of Granby 
+10-28-93 
+G-S 
+999 
+N 
+I 
+10-01-93 
+Indef.
+ST94-467 
+Williams Natural Gas Co 
+Greeley Gas Co 
+10-28-93 
+G-S 
+2,650 
+N 
+I 
+10-01-93 
+Indef.
+ST94-468 
+Williams Natural Gas Co 
+Missouri Public Service 
+10-28-93 
+G-S 
+5,834 
+N 
+F 
+10-07-93 
+Indef.
+ST94-469 
+Williams Natural Gas Co 
+Western Resources, Inc 
+10-28-93 
+G-S 
+14,640 
+N 
+F 
+10-01-93 
+Indef.
+ST94-470 
+Williams Natural Gas Co 
+City Utilities of Springfield 
+10-28-93 
+B 
+4,833 
+N 
+F 
+10-01-93 
+10-01-94
+ST94-471 
+Williams Natural Gas Co 
+City Utilities of Springfield 
+10-28-93 
+B 
+6,588 
+N 
+F 
+10-01-93 
+Indef.
+ST94-472 
+Williams Natural Gas Co 
+Western Resources, Inc 
+10-28-93 
+G-S 
+7,614 
+N 
+F 
+10-01-93 
+Indef.
+ST94-473 
+Williams Natural Gas Co 
+Western Resources, Inc 
+10-28-93 
+G-S 
+6,450 
+N 
+F 
+10-01-93 
+Indef.
+ST94-474 
+Williams Natural Gas Co 
+Altamont Municipal Gas Authority 
+10-28-93 
+G-S 
+996 
+N 
+I 
+10-01-93 
+Indef.
+ST94-475 
+Williams Natural Gas Co 
+Quaker Oats Co 
+10-28-93 
+G-S 
+2,000 
+N 
+I 
+10-09-93 
+10-01-94
+ST94-476 
+Williams Natural Gas Co 
+Post Rock Gas, Inc 
+10-28-93 
+G-S 
+150 
+N 
+I 
+10-01-93 
+Indef.
+ST94-477 
+Williams Natural Gas Co 
+Pawnee Pipeline & Marketing Co 
+10-28-93 
+G-S 
+500 
+N 
+I 
+10-01-93 
+Indef.
+ST94-478 
+Williams Natural Gas Co 
+Midcoast Energy Resources, Inc 
+10-28-93 
+G-S 
+8,000 
+N 
+I 
+10-09-93 
+Indef.
+ST94-479 
+Williams Natural Gas Co 
+Kansas Municipal Gas Agency 
+10-28-93 
+G-S 
+11,108 
+N 
+I 
+10-08-93 
+Indef.
+ST94-480 
+Panhandle Eastern Pipe Line Co 
+Ward Gas Marketing, Inc 
+10-28-93 
+G-S 
+78,000 
+N 
+I 
+10-01-93 
+09-30-95
+ST94-481 
+Panhandle Eastern Pipe Line Co 
+Enron Gas Marketing, Inc 
+10-28-93 
+G-S 
+2,628 
+N 
+F 
+10-01-93 
+10-31-93
+ST94-482 
+Panhandle Eastern Pipe Line Co 
+Gedi, Inc 
+10-28-93 
+G-S 
+1,500 
+N 
+I 
+10-01-93 
+09-30-98
+ST94-483 
+Panhandle Eastern Pipe Line Co 
+Tylex, Inc 
+10-28-93 
+G-S 
+3,500 
+N 
+I 
+10-01-93 
+04-30-98
+ST94-484 
+Panhandle Eastern Pipe Line Co 
+Mountain Front Pipeline Co., Inc 
+10-28-93 
+G-S 
+20,000 
+N 
+I 
+10-01-93 
+08-31-98
+ST94-485 
+Natural Gas P.L Co. of America 
+Tenngasco Corp 
+10-28-93 
+B 
+60,000 
+N 
+I 
+06-01-87 
+Indef.
+ST94-486 
+Natural Gas P.L Co. of America 
+Diamond Shamrock Offshore Partners 
+10-28-93 
+B 
+50,000 
+N 
+I 
+09-01-87 
+Indef.
+ST94-487 
+Natural Gas P.L Co. of America 
+Energy Marketing Exchange, Inc 
+10-28-93 
+B 
+30,000 
+N 
+I 
+04-01-87 
+Indef.
+ST94-488 
+Natural Gas P.L Co. of America 
+Chevron U.S.A., Inc 
+10-28-93 
+B 
+9,000 
+N 
+I 
+08-01-88 
+Indef.
+ST94-489 
+Natural Gas P.L Co. of America 
+Texaco Gas Marketing, Inc 
+10-28-93 
+B 
+100,000 
+N 
+I 
+12-01-87 
+Indef.
+ST94-490 
+Natural Gas P.L Co. of America 
+Amgas, Inc 
+10-28-93 
+B 
+100,000 
+N 
+I 
+04-01-87 
+Indef.
+ST94-491 
+Natural Gas P.L Co. of America 
+Humble Gas Transmission Co 
+10-28-93 
+B 
+75,000 
+N 
+ 
+04-01-87 
+Indef.
+ST94-492 
+Channel Industries Gas Co 
+Northern Natural Gas Co., et al 
+10-29-93 
+C 
+50,000 
+Y 
+I 
+10-01-93 
+Indef.
+ST94-493 
+Channel Industries Gas Co 
+THC Pipeline Co., et al 
+10-29-93 
+C 
+75,000 
+N 
+I 
+10-01-93 
+Indef.
+ 
+ST94-494 
+Transok, Inc 
+ANR Pipeline Co., et al 
+10-29-93 
+C 
+50,000 
+N 
+I
+10-01-93 
+Indef. 
+ST94-495 
+Delhi Gas Pipeline Corp 
+Ozark Gas Transmission System 
+10-29-93 
+C 
+25,000 
+N 
+I
+10-11-93 
+Indef. 
+ST94-496 
+Delhi Gas Pipeline Corp 
+Ozark Gas Transmission System 
+10-29-93 
+C 
+600 
+N 
+I
+10-09-93 
+Indef. 
+ST94-497 
+Transok, Inc 
+ANR Pipeline Co., et al 
+10-29-93 
+C 
+10,000 
+N 
+I
+10-01-93 
+10-31-93 
+ST94-498 
+Transok, Inc 
+ANR Pipeline Co., et al 
+10-29-93 
+C 
+20,000 
+N 
+I
+10-01-93 
+Indef. 
+ST94-499 
+Texas Gas Transmission Corp 
+Corning Natural Gas Corp 
+10-29-93 
+G-S 
+2,882 
+N 
+F
+10-14-93 
+Indef. 
+ST94-500 
+Texas Gas Transmission Corp 
+Sonat Marketing Co 
+10-29-93 
+G-S 
+100,000 
+N 
+I
+10-20-93 
+Indef. 
+ST94-501 
+Texas Gas Transmission Corp 
+Enron Gas Marketing, Inc 
+10-29-93 
+G-S 
+50,000 
+N 
+I
+10-11-93 
+Indef. 
+ST94-502 
+Texas Gas Transmission Corp 
+Sonat Marketing Co 
+10-29-93 
+G-S 
+100,000 
+N 
+I
+10-20-93 
+Indef. 
+ST94-503 
+Texas Gas Transmission Corp 
+Sonat Marketing Co 
+10-29-93 
+G-S 
+100,000 
+N 
+I
+10-20-93 
+Indef. 
+ST94-504 
+Texas Gas Transmission Corp 
+CMS Gas Marketing 
+10-29-93 
+G-S 
+100,000 
+N 
+I
+10-15-93 
+Indef. 
+ST94-505 
+Kotch Gateway Pipeline Co 
+Transco Energy Marketing Co 
+10-29-93 
+G-S 
+104,800 
+N 
+I
+10-14-93 
+02-11-94 
+ST94-506 
+Texas Eastern Transmission Corp 
+Brooklyn Union Gas Co 
+10-29-93 
+G 
+20,604 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-507 
+Texas Eastern Transmission Corp 
+Corning Natural Gas Corp 
+10-29-93 
+G 
+860 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-508 
+Texas Eastern Transmission Corp 
+UGI Utilities, Inc 
+10-29-93 
+G-S 
+4,000 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-509 
+Texas Eastern Transmission Corp 
+Columbia Gas of Ohio, Inc 
+10-29-93 
+G-S 
+11,000 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-510 
+Texas Eastern Transmission Corp 
+UGI Utilities, Inc 
+10-29-93 
+G-S 
+25,749 
+N 
+I
+10-01-93 
+09-30-94 
+ST94-511 
+Texas Eastern Transmission Corp 
+Texas-Ohio Gas, Inc 
+10-29-93 
+G-S 
+1,000 
+N 
+I
+10-02-93 
+09-30-94 
+ST94-512 
+Texas Eastern Transmission Corp 
+New York State Electric & Gas Corp 
+10-29-93 
+G 
+17,237 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-513 
+Texas Eastern Transmission Corp 
+Richmond Dept. of Public Utility 
+10-29-93 
+G 
+3,422 
+N 
+I
+10-01-93 
+10-31-99 
+ST94-514 
+Texas Eastern Transmission Corp 
+River Gas Co 
+10-29-93 
+G 
+1,409 
+N 
+I
+10-01-93 
+10-31-99 
+ST94-515 
+Texas Eastern Transmission Corp 
+Virginia Natural Gas, Inc 
+10-29-93 
+G 
+4,586 
+N 
+I
+10-01-93 
+10-31-99 
+ST94-516 
+Texas Eastern Transmission Corp 
+Hope Gas, Inc 
+10-29-93 
+G-S 
+5,000 
+N 
+I
+09-01-93 
+10-31-99 
+ST94-517 
+Texas Eastern Transmission Corp 
+East Ohio Gas Co 
+10-29-93 
+G 
+44,127 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-518 
+Texas Eastern Transmission Corp 
+East Ohio Gas Co 
+10-29-93 
+G 
+30,000 
+N 
+I
+10-01-93 
+10-31-99 
+ST94-519 
+Texas Eastern Transmission Corp 
+Elizabethtown Gas Co 
+10-29-93 
+G 
+3,603 
+N 
+I
+10-01-93 
+10-31-99 
+ST94-520 
+Texas Eastern Transmission Corp 
+Long Island Lighting Co 
+10-29-93 
+G 
+12,578 
+N 
+I
+10-01-93 
+10-31-99 
+ST94-521 
+Texas Eastern Transmission Corp 
+National Fuel Gas Dist. Corp 
+10-29-93 
+G 
+44,313 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-522 
+Texas Eastern Transmission Corp 
+New Jersey Natural Gas Co 
+10-29-93 
+G 
+5,243 
+N 
+I
+10-01-93 
+10-31-99 
+ST94-523 
+Texas Eastern Transmission Corp 
+Middleborough Gas & Electric Dept 
+10-29-93 
+G 
+119 
+N 
+I
+10-01-93 
+10-31-99 
+ST94-524 
+Texas Eastern Transmission Corp 
+Boston Gas Co 
+10-29-93 
+G 
+5,033 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-525 
+Texas Eastern Transmission Corp 
+East Ohio Gas Co 
+10-29-93 
+G 
+20,762 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-526 
+Texas Eastern Transmission Corp 
+Carnegie Natural Gas Co 
+10-29-93 
+G 
+18,207 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-527 
+Texas Eastern Transmission Corp 
+Valero Gas Marketing, L.P 
+10-29-93 
+G-S 
+30,000 
+N 
+I
+10-01-93 
+05-30-94 
+ST94-528 
+Texas Eastern Transmission Corp 
+Miami Valley Resources, Inc 
+10-29-93 
+G-S 
+4,791 
+N 
+I
+10-01-93 
+10-31-93 
+ST94-529 
+Texas Eastern Transmission Corp 
+Suburbas Natural Gas Co 
+10-29-93 
+G-S 
+1,060 
+N 
+I
+10-01-93 
+11-01-94 
+ST94-530 
+Texas Eastern Transmission Corp 
+Yuma Gas Corp 
+10-29-93 
+G-S 
+621 
+N 
+I
+10-01-93 
+10-31-94 
+ST94-531 
+Texas Eastern Transmission Corp 
+Union Electric Co 
+10-29-93 
+G-S 
+2,000 
+N 
+I
+10-02-93 
+11-01-93 
+ST94-532 
+Texas Eastern Transmission Corp 
+Meridian Marketing & Trans. Corp 
+10-29-93 
+G-S 
+10,000 
+N 
+I
+10-02-93 
+06-30-94 
+ST94-533 
+Texas Eastern Transmission Corp 
+Apache Corp 
+10-29-93 
+G-S 
+100,000 
+N 
+I
+10-02-93 
+08-31-94 
+ST94-534 
+Texas Eastern Transmission Corp 
+Murphy Exploration & Production 
+10-29-93 
+G-S 
+48,439 
+N 
+I
+10-03-93 
+09-30-94 
+ST94-535 
+Texas Eastern Transmission Corp 
+Santa Fe Energy Oper. Partnership 
+10-29-93 
+G-S 
+25,000 
+N 
+I
+10-03-93 
+09-30-94 
+ST94-536 
+Texas Eastern Transmission Corp 
+Bristol & Warren Gas Co 
+10-29-93 
+G 
+549 
+N 
+I
+10-01-93 
+10-31-99 
+ST94-537 
+Texas Eastern Transmission Corp 
+Niagara Mohawk Power Corp 
+10-29-93 
+G 
+23,935 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-538 
+Texas Eastern Transmission Corp 
+Colonial Gas Co 
+10-29-93 
+G 
+1,996 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-539 
+Texas Eastern Transmission Corp 
+Commonwealth Gas Co 
+10-29-93 
+G 
+4,781 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-540 
+Texas Eastern Transmission Corp 
+North Attleboro Gas Co 
+10-29-93 
+G 
+79 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-541 
+Texas Eastern Transmission Corp 
+Providence Gas Co 
+10-29-93 
+G 
+1,814 
+N 
+F
+10-01-93 
+10-31-99 
+ST94-542 
+Texas Eastern Transmission Corp 
+Southern Connecticut Gas Co 
+10-29-93 
+G 
+2,970 
+N 
+F
+10-01-93 
+10-31-99
+ST94-543 
+Texas Eastern Transmission Corp 
+Yankee Gas Services Co 
+10-29-93 
+G 
+3,660 
+N 
+F 
+10-01-93 
+10-31-99 
+ST94-544 
+Texas Eastern Transmission Corp 
+Baltimore Gas & Electric Co 
+10-29-93 
+G 
+21,616 
+N 
+F 
+10-01-93 
+10-31-99 
+ST94-545 
+Texas Eastern Transmission Corp 
+People Natural Gas 
+10-29-93 
+G 
+35,618 
+N 
+F 
+10-01-93 
+10-31-99 
+ST94-546 
+Texas Eastern Transmission Corp 
+Public Service Electric & Gas Co 
+10-29-93 
+G 
+7,690 
+N 
+F 
+10-01-93 
+10-31-99 
+ST94-547 
+Texas Eastern Transmission Corp 
+Public Service Co of NC, Inc 
+10-29-93 
+G 
+5,206 
+N 
+F 
+10-01-93 
+10-31-99 
+ST94-548 
+Texas Eastern Transmission Corp 
+Rochester Gas & Electric Corp 
+10-29-93 
+G 
+48,046 
+N 
+F 
+10-01-93 
+10-31-99 
+ST94-549 
+Texas Eastern Transmission Corp 
+Washington Gas Light Co 
+10-29-93 
+G 
+23,459 
+N 
+F 
+10-01-93 
+10-31-99 
+ST94-550 
+Texas Eastern Transmission Corp 
+CNG Transmission Corp 
+10-29-93 
+G 
+2,993 
+N 
+F 
+10-01-93 
+10-31-99 
+ST94-551 
+Texas Eastern Transmission Corp 
+Penn Fuel Gas, Inc 
+10-29-93 
+G 
+16,136 
+N 
+I 
+10-01-93 
+01-01-00 
+ST94-552 
+Texas Eastern Transmission Corp 
+New Jersey Natural Gas Co 
+10-29-93 
+G-S 
+27,000 
+N 
+F 
+10-01-93 
+10-31-99 
+ST94-553 
+Texas Eastern Transmission Corp 
+Interest Gas Supply, Inc 
+10-29-93 
+G-S 
+2,070 
+N 
+I 
+10-01-93 
+10-31-93 
+ST94-554 
+Transcontinental Gas P/L Corp 
+Washington Gas Light Co 
+10-29-93 
+G-S 
+2,343 
+N 
+F 
+10-08-93 
+10-31-93 
+ST94-555 
+Transcontinental Gas P/L Corp 
+East Ohio Gas Co 
+10-29-93 
+G-S 
+20,326 
+N 
+F 
+10-01-93 
+10-31-12 
+ST94-556 
+Transcontinental Gas P/L Corp 
+Balitmore Gas & Electric Co 
+10-29-93 
+G-S 
+2,157 
+N 
+F 
+10-01-93 
+10-31-12 
+ST94-557 
+Transcontinental Gas P/L Corp 
+Sun Co, Inc 
+10-29-93 
+G-S 
+40,000 
+N 
+F 
+10-01-93 
+10-31-12 
+ST94-558 
+Tennessee Gas Pipeline Co 
+UGI Utilities, Inc 
+10-29-93 
+G-S 
+29,999 
+N 
+I 
+10-01-93 
+Indef. 
+ST94-559 
+Williams Natural Gas Co 
+Tenaska Marketing Ventures 
+10-29-93 
+G-S 
+100,000 
+N 
+I 
+10-01-93 
+Indef. 
+ST94-560 
+Williams Natural Gas Co 
+Western Resources, Inc 
+10-29-93 
+G-S 
+50,000 
+N 
+I 
+10-09-93 
+Indef. 
+ST94-561 
+Williams Natural Gas Co 
+Nebraska Public Gas Agency 
+10-29-93 
+G-S 
+10,000 
+N 
+I 
+10-01-93 
+Indef. 
+ST94-562 
+Williams Natural Gas Co 
+Mid-Continent Energy, Inc 
+10-29-93 
+G-S 
+250 
+N 
+I 
+10-21-93 
+10-01-94 
+ST94-563 
+Williams Natural Gas Co 
+Centran Corp 
+10-29-93 
+G-S 
+500 
+N 
+I 
+10-01-93 
+10-01-94 
+ST94-564 
+Williams Natural Gas Co 
+Nebraska Public Gas Agency 
+10-29-93 
+G-S 
+6,375 
+N 
+I 
+10-01-93 
+Indef.
+ST94-565 
+Williams Natural Gas Co 
+Wann Public Works Authority 
+10-29-93 
+G-S 
+30,660 
+N 
+F 
+10-01-93 
+Indef. 
+ST94-566 
+Williams Natural Gas Co 
+Anadarko Trading Co 
+10-29-93 
+G-S 
+3,235 
+N 
+F 
+10-01-93 
+Indef. 
+ST94-567 
+Williams Natural Gas Co 
+Armco, Inc 
+10-29-93 
+G-S 
+1,200 
+N 
+F 
+10-01-93 
+Indef. 
+ST94-568 
+Williams Natural Gas Co 
+Conoco, Inc 
+10-29-93 
+G-S 
+800 
+N 
+F 
+10-01-93 
+Indef. 
+ST94-569 
+Williams Natural Gas Co 
+Continental Natural Gas, Inc 
+10-29-93 
+G-S 
+1,260 
+N 
+F 
+10-01-93 
+Indef. 
+ST94-570 
+Williams Natural Gas Co 
+City of Cleveland 
+10-29-93 
+G-S 
+2,000 
+N 
+F 
+10-13-93 
+Indef. 
+ST94-571 
+Natural Gas P/L Co of America 
+Westar Transmission Co 
+10-29-93 
+B 
+2,000 
+N 
+I 
+03-01-87 
+Indef. 
+ST94-572 
+Natural Gas P/L Co of America 
+Transcontinental Gas Pipe Line Corp 
+10-29-93 
+B 
+400,000 
+N 
+I 
+05-18-87 
+05-29-87 
+ST94-573 
+Natural Gas P/L Co of America 
+Monarch Gas Co 
+10-29-93 
+B 
+5,000 
+N 
+I 
+01-01-87 
+Indef.
+ST94-574 
+Colorado Interstate Gas Co 
+Montana Power Co 
+10-29-93 
+B 
+100 
+N 
+I 
+10-07-93 
+Indef.
+ST94-575 
+Panhandle Eastern Pipe Line Co 
+Amgas, Inc 
+10-29-93 
+G-S 
+10,000 
+N 
+F 
+10-01-93 
+03-31-94
+ST94-576 
+Panhandle Eastern Pipe Line Co 
+Guardian Industries Corp 
+10-29-93 
+G-S 
+1,271 
+N 
+F 
+10-01-93 
+03-31-94 
+ST94-577 
+Panhandle Eastern Pipe Line Co 
+Associated Natural Gas, Inc 
+10-29-93 
+G-S 
+20,000 
+N 
+F 
+10-01-93 
+10-31-93
+ST94-578 
+Panhandle Eastern Pipe Line Co 
+Columbia Gas of Ohio, Inc 
+10-29-93 
+G-S 
+30,000 
+N 
+F 
+10-01-93 
+06-30-94 
+1Notice of transactions does not constitute a determination that filings comply with commission regulations in
+accordance with order No. 436 (final rule and notice requesting supplemental comments, 50 FR 42,372, 1 
+2Estimated maxium daily volumes includes volumes reported by the filing company in MMBTU, MCF and DT.
+3Affliation of reporting company to entities involved in the transaction. A "Y" indicates affiliation, an "A"
+indicates marketing affiliation, and a "N" indicates no affiliation. 
+</TABLE>
+<FRFILING>
+[FR Doc. 94-973 Filed 1-13-94; 8:45 am]
+</FRFILING>
+<BILLING>
+BILLING CODE 6717-01-P
+</BILLING>
+</TEXT>
+</DOC>
